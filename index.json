@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T06:21:25Z",
+  "updated": "2026-10-17T06:21:51Z",
   "apps": [
     {
       "id": "app.ethicalgames.solitaire",
@@ -42,6 +42,20 @@
       "notes": "New look: the menu is the \u2261 button and holds New game; Undo and Hint are icons (hold one to see its name). New app ID app.ethicalgames.spider \u2014 remove the old test build if you had one.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
+      ]
+    },
+    {
+      "id": "app.ethicalgames.tripeaks",
+      "name": "Ethical TriPeaks",
+      "game": "TriPeaks",
+      "versionName": "0.6.0-playtest1",
+      "versionCode": 2,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.6.0-playtest1/ethical-tripeaks-0.6.0-playtest1.apk",
+      "sha256": "62eb138a4e42ad5fb1e59d59c69b7d1b0a157af8739265aef46c4d89e1314616",
+      "size": 12363144,
+      "notes": "New look: the menu is the \u2261 button and holds New game; Undo and Hint are icons (hold one to see its name). New app ID app.ethicalgames.tripeaks \u2014 remove the old test build if you had one.",
+      "oldIds": [
+        "io.github.coxtylerw.ethical.tripeaks"
       ]
     }
   ]
