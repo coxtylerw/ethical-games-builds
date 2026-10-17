@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T19:13:51Z",
+  "updated": "2026-10-17T19:14:23Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.8.0-playtest1",
-      "versionCode": 4,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.8.0-playtest1/ethical-golf-0.8.0-playtest1.apk",
-      "sha256": "20abd27d2cbd9a9128c4ddb6c95ed5fca9dd968e588eb4955fad5bbc6294d283",
-      "size": 13463814,
-      "notes": "Fixes: messages no longer move the cards; changing the look keeps your game; Cyber Neon empty-pile outline complete. New: highlight colours for cards under Menu \u203a Look \u203a Custom (selected, hint, can't take yet), neon highlights glow from the rim, smaller neon art.",
+      "versionName": "0.8.1-playtest1",
+      "versionCode": 5,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.8.1-playtest1/ethical-golf-0.8.1-playtest1.apk",
+      "sha256": "f188c38487553f4a6d382840fdb884395145a47ca87ffa4ed20f1970cd16f3a8",
+      "size": 13480198,
+      "notes": "First launch now always starts on a winnable deal (Pyramid and Golf could start on an unwinnable one). Hint now tells you when a position can no longer be won and how many moves to undo. Menu \u203a About links to ethicalgames.app.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
