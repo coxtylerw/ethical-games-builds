@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T06:23:19Z",
+  "updated": "2026-10-17T06:30:22Z",
   "apps": [
+    {
+      "id": "app.ethicalgames.installer",
+      "name": "Ethical Games Installer",
+      "game": "Installs and updates the test builds",
+      "versionName": "0.1.0",
+      "versionCode": 1,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/installer-v0.1.0/ethical-games-installer-0.1.0.apk",
+      "sha256": "353cd023c45abd9cb2b5e4fb1ab53b30ef6d1213d77e2cdc6c0f9f075f3bd470",
+      "size": 11638916,
+      "notes": "First test build: lists every Ethical game, installs and updates them (and itself), checks each download's size and SHA-256, and offers to remove old test builds.",
+      "oldIds": []
+    },
     {
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
