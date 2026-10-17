@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T19:12:27Z",
+  "updated": "2026-10-17T19:12:55Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.8.0-playtest1",
-      "versionCode": 4,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.8.0-playtest1/ethical-spider-0.8.0-playtest1.apk",
-      "sha256": "3eb8f4135894c0587de22fcb07cd37623db80d71ed4886e3b27086e601ca4fca",
-      "size": 13480250,
-      "notes": "Fixes: messages no longer move the cards; changing the look keeps your game; Cyber Neon empty-pile outline complete. New: highlight colours for cards under Menu \u203a Look \u203a Custom (selected, hint, can't take yet), neon highlights glow from the rim, smaller neon art.",
+      "versionName": "0.8.1-playtest1",
+      "versionCode": 5,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.8.1-playtest1/ethical-spider-0.8.1-playtest1.apk",
+      "sha256": "829e59967fc79d3cbd0b9fc2768bd47ac6be725c367ffbcf30628a261a62f47a",
+      "size": 13496630,
+      "notes": "First launch now always starts on a winnable deal (Pyramid and Golf could start on an unwinnable one). Hint now tells you when a position can no longer be won and how many moves to undo. Menu \u203a About links to ethicalgames.app.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
