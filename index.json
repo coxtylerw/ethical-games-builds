@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T06:21:51Z",
+  "updated": "2026-10-17T06:22:18Z",
   "apps": [
     {
       "id": "app.ethicalgames.solitaire",
@@ -56,6 +56,20 @@
       "notes": "New look: the menu is the \u2261 button and holds New game; Undo and Hint are icons (hold one to see its name). New app ID app.ethicalgames.tripeaks \u2014 remove the old test build if you had one.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
+      ]
+    },
+    {
+      "id": "app.ethicalgames.pyramid",
+      "name": "Ethical Pyramid",
+      "game": "Pyramid",
+      "versionName": "0.6.0-playtest1",
+      "versionCode": 2,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.6.0-playtest1/ethical-pyramid-0.6.0-playtest1.apk",
+      "sha256": "279b52e9f5c8001816a6322bd242329ed61897e38801b3b10562dfd585623108",
+      "size": 12363200,
+      "notes": "New look: the menu is the \u2261 button and holds New game; Undo and Hint are icons (hold one to see its name). New app ID app.ethicalgames.pyramid \u2014 remove the old test build if you had one.",
+      "oldIds": [
+        "io.github.coxtylerw.ethical.pyramid"
       ]
     }
   ]
