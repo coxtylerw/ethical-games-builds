@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T19:14:23Z",
+  "updated": "2026-10-17T19:14:58Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.9.0-playtest1",
-      "versionCode": 6,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.9.0-playtest1/ethical-mahjong-0.9.0-playtest1.apk",
-      "sha256": "7e750bb33f82edbe8c33f0ccd3053c86c5886824014d341d13b19dc03484a999",
+      "versionName": "0.9.1-playtest1",
+      "versionCode": 7,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.9.1-playtest1/ethical-mahjong-0.9.1-playtest1.apk",
+      "sha256": "9014fb535d4b8d2b993734ce6a8e3e15b0b5af0f8e0037d658b94e1b68aaf9b7",
       "size": 12908254,
-      "notes": "Fixes: changing the look keeps your game. New: highlight colours moved to Menu \u203a Look \u203a Custom; Cyber Neon highlights glow from the rim inside the frame and blocked tiles show scanlines; smaller neon art.",
+      "notes": "Menu \u203a About links to ethicalgames.app.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
