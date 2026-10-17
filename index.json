@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T07:32:47Z",
+  "updated": "2026-10-17T08:58:25Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.7.0-playtest1",
-      "versionCode": 3,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.7.0-playtest1/ethical-solitaire-0.7.0-playtest1.apk",
-      "sha256": "8dab29016aa67d2e6b428913fa539c08c4271d35581fd7a4669d4059212a1934",
-      "size": 16060585,
-      "notes": "New look: Cyber Neon (Menu \u203a Look) \u2014 glowing neon cards on black crushed velvet, neon icons and menus. Optional; the default look is unchanged.",
+      "versionName": "0.8.0-playtest1",
+      "versionCode": 4,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.8.0-playtest1/ethical-solitaire-0.8.0-playtest1.apk",
+      "sha256": "e66f393fa0d807d04e0417527688a34c7639f789d95c0313ebc1a6310e93ab07",
+      "size": 13480155,
+      "notes": "Fixes: messages no longer move the cards; changing the look keeps your game; Cyber Neon empty-pile outline complete. New: highlight colours for cards under Menu \u203a Look \u203a Custom (selected, hint, can't take yet), neon highlights glow from the rim, smaller neon art.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
