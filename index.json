@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T07:30:50Z",
+  "updated": "2026-10-17T07:31:17Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.6.0-playtest1",
-      "versionCode": 2,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.6.0-playtest1/ethical-tripeaks-0.6.0-playtest1.apk",
-      "sha256": "62eb138a4e42ad5fb1e59d59c69b7d1b0a157af8739265aef46c4d89e1314616",
-      "size": 12363144,
-      "notes": "New look: the menu is the \u2261 button and holds New game; Undo and Hint are icons (hold one to see its name). New app ID app.ethicalgames.tripeaks \u2014 remove the old test build if you had one.",
+      "versionName": "0.7.0-playtest1",
+      "versionCode": 3,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.7.0-playtest1/ethical-tripeaks-0.7.0-playtest1.apk",
+      "sha256": "1838c4886df1196f9c9aa7c56f63a771899b309f601fa8357dc81df207252da6",
+      "size": 16044176,
+      "notes": "New look: Cyber Neon (Menu \u203a Look) \u2014 glowing neon cards on black crushed velvet, neon icons and menus. Optional; the default look is unchanged.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
