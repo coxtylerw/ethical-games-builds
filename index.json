@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T09:00:46Z",
+  "updated": "2026-10-17T09:01:23Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.8.0-playtest1",
-      "versionCode": 5,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.8.0-playtest1/ethical-mahjong-0.8.0-playtest1.apk",
-      "sha256": "fca50a3d1d832bd7cff5d9bf3cff97923c54bbaabc366ecd41bed3cf1fa70810",
-      "size": 14285832,
-      "notes": "New look: Cyber Neon (Menu \u203a Look) \u2014 symbolic neon mahjong tiles (dots, bamboo, \u842c, winds, dragons, flowers, seasons) on black crushed velvet, neon icons and menus. Optional; the default look is unchanged.",
+      "versionName": "0.9.0-playtest1",
+      "versionCode": 6,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.9.0-playtest1/ethical-mahjong-0.9.0-playtest1.apk",
+      "sha256": "7e750bb33f82edbe8c33f0ccd3053c86c5886824014d341d13b19dc03484a999",
+      "size": 12908254,
+      "notes": "Fixes: changing the look keeps your game. New: highlight colours moved to Menu \u203a Look \u203a Custom; Cyber Neon highlights glow from the rim inside the frame and blocked tiles show scanlines; smaller neon art.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
