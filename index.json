@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T08:59:21Z",
+  "updated": "2026-10-17T08:59:49Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.7.0-playtest1",
-      "versionCode": 3,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.7.0-playtest1/ethical-tripeaks-0.7.0-playtest1.apk",
-      "sha256": "1838c4886df1196f9c9aa7c56f63a771899b309f601fa8357dc81df207252da6",
-      "size": 16044176,
-      "notes": "New look: Cyber Neon (Menu \u203a Look) \u2014 glowing neon cards on black crushed velvet, neon icons and menus. Optional; the default look is unchanged.",
+      "versionName": "0.8.0-playtest1",
+      "versionCode": 4,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.8.0-playtest1/ethical-tripeaks-0.8.0-playtest1.apk",
+      "sha256": "d50a509d8f213de2dc17b70b578a492b023094dfc262c7322d97bc28847b6629",
+      "size": 13463750,
+      "notes": "Fixes: messages no longer move the cards; changing the look keeps your game; Cyber Neon empty-pile outline complete. New: highlight colours for cards under Menu \u203a Look \u203a Custom (selected, hint, can't take yet), neon highlights glow from the rim, smaller neon art.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
