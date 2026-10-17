@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T07:32:11Z",
+  "updated": "2026-10-17T07:32:47Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.7.1-playtest1",
-      "versionCode": 4,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.7.1-playtest1/ethical-mahjong-0.7.1-playtest1.apk",
-      "sha256": "6878e7492a3a9ec129ba55fcc0c6e32933d24db175a218db3765cde57f2cf63c",
-      "size": 12126371,
-      "notes": "Same as 0.7.0 (hamburger menu, icon bar, quiet header, solid tiles with shadows) under the new app ID app.ethicalgames.mahjong \u2014 remove the old test build if you had one.",
+      "versionName": "0.8.0-playtest1",
+      "versionCode": 5,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.8.0-playtest1/ethical-mahjong-0.8.0-playtest1.apk",
+      "sha256": "fca50a3d1d832bd7cff5d9bf3cff97923c54bbaabc366ecd41bed3cf1fa70810",
+      "size": 14285832,
+      "notes": "New look: Cyber Neon (Menu \u203a Look) \u2014 symbolic neon mahjong tiles (dots, bamboo, \u842c, winds, dragons, flowers, seasons) on black crushed velvet, neon icons and menus. Optional; the default look is unchanged.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
