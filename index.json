@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T07:31:17Z",
+  "updated": "2026-10-17T07:31:44Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.6.0-playtest1",
-      "versionCode": 2,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.6.0-playtest1/ethical-pyramid-0.6.0-playtest1.apk",
-      "sha256": "279b52e9f5c8001816a6322bd242329ed61897e38801b3b10562dfd585623108",
-      "size": 12363200,
-      "notes": "New look: the menu is the \u2261 button and holds New game; Undo and Hint are icons (hold one to see its name). New app ID app.ethicalgames.pyramid \u2014 remove the old test build if you had one.",
+      "versionName": "0.7.0-playtest1",
+      "versionCode": 3,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.7.0-playtest1/ethical-pyramid-0.7.0-playtest1.apk",
+      "sha256": "e40e21bd3adda4c47153d0518566617172dc17bd8dc582502c03f096b48c57e7",
+      "size": 16060620,
+      "notes": "New look: Cyber Neon (Menu \u203a Look) \u2014 glowing neon cards on black crushed velvet, neon icons and menus. Optional; the default look is unchanged.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
