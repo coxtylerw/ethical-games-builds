@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T19:12:55Z",
+  "updated": "2026-10-17T19:13:21Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.8.0-playtest1",
-      "versionCode": 4,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.8.0-playtest1/ethical-tripeaks-0.8.0-playtest1.apk",
-      "sha256": "d50a509d8f213de2dc17b70b578a492b023094dfc262c7322d97bc28847b6629",
-      "size": 13463750,
-      "notes": "Fixes: messages no longer move the cards; changing the look keeps your game; Cyber Neon empty-pile outline complete. New: highlight colours for cards under Menu \u203a Look \u203a Custom (selected, hint, can't take yet), neon highlights glow from the rim, smaller neon art.",
+      "versionName": "0.8.1-playtest1",
+      "versionCode": 5,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.8.1-playtest1/ethical-tripeaks-0.8.1-playtest1.apk",
+      "sha256": "e590d822293d0c26813593f6949f4da9e5ab81efc356b61980014d765835b51b",
+      "size": 13480134,
+      "notes": "First launch now always starts on a winnable deal (Pyramid and Golf could start on an unwinnable one). Hint now tells you when a position can no longer be won and how many moves to undo. Menu \u203a About links to ethicalgames.app.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
