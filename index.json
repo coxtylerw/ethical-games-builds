@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T06:20:57Z",
+  "updated": "2026-10-17T06:21:25Z",
   "apps": [
     {
       "id": "app.ethicalgames.solitaire",
@@ -28,6 +28,20 @@
       "notes": "New look: the menu is the \u2261 button and holds New game; Undo and Hint are icons (hold one to see its name). New app ID app.ethicalgames.freecell \u2014 remove the old test build if you had one.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
+      ]
+    },
+    {
+      "id": "app.ethicalgames.spider",
+      "name": "Ethical Spider",
+      "game": "Spider Solitaire",
+      "versionName": "0.6.0-playtest1",
+      "versionCode": 2,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.6.0-playtest1/ethical-spider-0.6.0-playtest1.apk",
+      "sha256": "2de89ec0ff41f2d11d05dbea0507d3353532a3b2c0e54e14e710affd655567bb",
+      "size": 12363260,
+      "notes": "New look: the menu is the \u2261 button and holds New game; Undo and Hint are icons (hold one to see its name). New app ID app.ethicalgames.spider \u2014 remove the old test build if you had one.",
+      "oldIds": [
+        "io.github.coxtylerw.ethical.spider"
       ]
     }
   ]
