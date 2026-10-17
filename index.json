@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T07:29:55Z",
+  "updated": "2026-10-17T07:30:24Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.6.0-playtest1",
-      "versionCode": 2,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.6.0-playtest1/ethical-freecell-0.6.0-playtest1.apk",
-      "sha256": "64543172bc69fa2775a6c9c25d40a5f10150073cb4135fbb0a0173302d340b08",
-      "size": 12363344,
-      "notes": "New look: the menu is the \u2261 button and holds New game; Undo and Hint are icons (hold one to see its name). New app ID app.ethicalgames.freecell \u2014 remove the old test build if you had one.",
+      "versionName": "0.7.0-playtest1",
+      "versionCode": 3,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.7.0-playtest1/ethical-freecell-0.7.0-playtest1.apk",
+      "sha256": "d690bda80c24c64ae051cbc00b4ae07a5f70b9f75890b6cb7fd1ca63374a021a",
+      "size": 16060760,
+      "notes": "New look: Cyber Neon (Menu \u203a Look) \u2014 glowing neon cards on black crushed velvet, neon icons and menus. Optional; the default look is unchanged.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
