@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T04:43:40Z",
+  "updated": "2026-10-18T04:44:10Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.1.0-playtest1",
-      "versionCode": 1,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.1.0-playtest1/ethical-sudoku-0.1.0-playtest1.apk",
-      "sha256": "4fbd55f9c63e483307738f4b9af8f84687169b3e44e809ecec330be22068fef5",
-      "size": 12385255,
-      "notes": "First playtest. Four levels; every puzzle has exactly one answer reachable by logic. Step-by-step hints (Look, Why, Answer), notes, number lock, Menu \u203a Assists for mistake marking, blocking and highlights.",
+      "versionName": "0.1.1-playtest1",
+      "versionCode": 2,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.1.1-playtest1/ethical-sudoku-0.1.1-playtest1.apk",
+      "sha256": "92396cdeec0db1f704855c455d23f04ecd3faaa5e50b3d19a455c1e9d9a1cf69",
+      "size": 12221561,
+      "notes": "Look is now called Theme; Programmer Art is now Classic.",
       "oldIds": []
     }
   ]
