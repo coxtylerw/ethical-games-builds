@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T19:15:08Z",
+  "updated": "2026-10-18T04:40:08Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.8.1-playtest1",
-      "versionCode": 5,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.8.1-playtest1/ethical-solitaire-0.8.1-playtest1.apk",
-      "sha256": "29d5794c7af8fc786560ec848570e4688e6dda7038f6eeb1cd4f2ac48556a2f3",
-      "size": 13496539,
-      "notes": "First launch now always starts on a winnable deal (Pyramid and Golf could start on an unwinnable one). Hint now tells you when a position can no longer be won and how many moves to undo. Menu \u203a About links to ethicalgames.app.",
+      "versionName": "0.9.0-playtest1",
+      "versionCode": 6,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.9.0-playtest1/ethical-solitaire-0.9.0-playtest1.apk",
+      "sha256": "628e9a93807fbb08c30a3cacad3cda01e18080756e5cb44fa3b1e379656bda8d",
+      "size": 13527334,
+      "notes": "Motion: cards glide between piles (on by default, Menu \u203a Theme \u203a Animate moves); Undo plays moves backwards. Rewind replaces Hint when a deal was last winnable more than 3 moves ago. Classic theme (red and black cards) replaces Programmer Art; Look is now Theme.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
