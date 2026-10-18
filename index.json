@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T04:41:14Z",
+  "updated": "2026-10-18T04:41:51Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.8.1-playtest1",
-      "versionCode": 5,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.8.1-playtest1/ethical-tripeaks-0.8.1-playtest1.apk",
-      "sha256": "e590d822293d0c26813593f6949f4da9e5ab81efc356b61980014d765835b51b",
-      "size": 13480134,
-      "notes": "First launch now always starts on a winnable deal (Pyramid and Golf could start on an unwinnable one). Hint now tells you when a position can no longer be won and how many moves to undo. Menu \u203a About links to ethicalgames.app.",
+      "versionName": "0.9.0-playtest1",
+      "versionCode": 6,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.9.0-playtest1/ethical-tripeaks-0.9.0-playtest1.apk",
+      "sha256": "3ce0ecf67d06488f13f025a01f22aac255d4436fa65448f25359beb720d9f7f2",
+      "size": 13510929,
+      "notes": "Motion: cards glide between piles (on by default, Menu \u203a Theme \u203a Animate moves); Undo plays moves backwards. Rewind replaces Hint when a deal was last winnable more than 3 moves ago. Classic theme (red and black cards) replaces Programmer Art; Look is now Theme.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
