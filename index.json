@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T04:42:59Z",
+  "updated": "2026-10-18T04:43:40Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.9.1-playtest1",
-      "versionCode": 7,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.9.1-playtest1/ethical-mahjong-0.9.1-playtest1.apk",
-      "sha256": "9014fb535d4b8d2b993734ce6a8e3e15b0b5af0f8e0037d658b94e1b68aaf9b7",
-      "size": 12908254,
-      "notes": "Menu \u203a About links to ethicalgames.app.",
+      "versionName": "0.10.0-playtest1",
+      "versionCode": 8,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.10.0-playtest1/ethical-mahjong-0.10.0-playtest1.apk",
+      "sha256": "2cec6066fb30a0ace40787dbd06699eb50791784aafb1ffe19abb2c8d2538db9",
+      "size": 12957321,
+      "notes": "Motion: matched pairs fly to the middle and fade, Shuffle slides tiles, Finish clears pair by pair (on by default, Menu \u203a Theme \u203a Animate moves); Undo plays moves backwards. Classic theme replaces Programmer Art; Look is now Theme.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
