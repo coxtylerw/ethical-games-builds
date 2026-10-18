@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T04:42:25Z",
+  "updated": "2026-10-18T04:42:59Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.8.1-playtest1",
-      "versionCode": 5,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.8.1-playtest1/ethical-golf-0.8.1-playtest1.apk",
-      "sha256": "f188c38487553f4a6d382840fdb884395145a47ca87ffa4ed20f1970cd16f3a8",
-      "size": 13480198,
-      "notes": "First launch now always starts on a winnable deal (Pyramid and Golf could start on an unwinnable one). Hint now tells you when a position can no longer be won and how many moves to undo. Menu \u203a About links to ethicalgames.app.",
+      "versionName": "0.9.0-playtest1",
+      "versionCode": 6,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.9.0-playtest1/ethical-golf-0.9.0-playtest1.apk",
+      "sha256": "5931cd3e1e56c53102e72e22cdead5aa7e7042fd2f721f08311d1b7487b5fb45",
+      "size": 13510993,
+      "notes": "Motion: cards glide between piles (on by default, Menu \u203a Theme \u203a Animate moves); Undo plays moves backwards. Rewind replaces Hint when a deal was last winnable more than 3 moves ago. Classic theme (red and black cards) replaces Programmer Art; Look is now Theme.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
