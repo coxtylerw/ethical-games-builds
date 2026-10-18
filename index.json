@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T06:52:57Z",
+  "updated": "2026-10-18T06:53:29Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.9.0-playtest1",
-      "versionCode": 6,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.9.0-playtest1/ethical-spider-0.9.0-playtest1.apk",
-      "sha256": "b7568737ea207bb341461d7af63c573e8dce07f56f8b26eab16d4551286ae598",
-      "size": 13527429,
-      "notes": "Motion: cards glide between piles (on by default, Menu \u203a Theme \u203a Animate moves); Undo plays moves backwards. Rewind replaces Hint when a deal was last winnable more than 3 moves ago. Classic theme (red and black cards) replaces Programmer Art; Look is now Theme.",
+      "versionName": "0.9.1-playtest1",
+      "versionCode": 7,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.9.1-playtest1/ethical-spider-0.9.1-playtest1.apk",
+      "sha256": "679985a523eab009987db884ffee4c6c6e88707a874fcf3d3192c438a1a75b1a",
+      "size": 13527425,
+      "notes": "Fixes Hint looping: following hints could move a card back and forth forever. Hint now never leads back to a position you've already played.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
