@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T22:22:20Z",
+  "updated": "2026-10-19T22:23:19Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.10.0-playtest1",
-      "versionCode": 7,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.10.0-playtest1/ethical-golf-0.10.0-playtest1.apk",
-      "sha256": "7197e2411220ae00b4891950f4385dce13ec7a7986c7390d0df58d2d1eb54f8f",
-      "size": 14648661,
-      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
+      "versionName": "0.11.0-playtest1",
+      "versionCode": 8,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.11.0-playtest1/ethical-golf-0.11.0-playtest1.apk",
+      "sha256": "686b4de340a2e7c29995be41a4445845f53a5438657c7afc65d13d7695c7252b",
+      "size": 15445593,
+      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
