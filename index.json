@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T01:43:39Z",
+  "updated": "2026-10-19T01:43:57Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.1.1-playtest1",
-      "versionCode": 2,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.1.1-playtest1/ethical-sudoku-0.1.1-playtest1.apk",
-      "sha256": "92396cdeec0db1f704855c455d23f04ecd3faaa5e50b3d19a455c1e9d9a1cf69",
-      "size": 12221561,
-      "notes": "Look is now called Theme; Programmer Art is now Classic.",
+      "versionName": "0.2.0-playtest1",
+      "versionCode": 3,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.2.0-playtest1/ethical-sudoku-0.2.0-playtest1.apk",
+      "sha256": "ac315a3a4c79e2dd981da0e3200b020ca732a74470ea0c8d21027da040527fe2",
+      "size": 12560119,
+      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
       "oldIds": []
     }
   ]
