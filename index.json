@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T22:24:29Z",
+  "updated": "2026-10-19T22:25:25Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.2.0-playtest1",
-      "versionCode": 3,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.2.0-playtest1/ethical-sudoku-0.2.0-playtest1.apk",
-      "sha256": "ac315a3a4c79e2dd981da0e3200b020ca732a74470ea0c8d21027da040527fe2",
-      "size": 12560119,
-      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
+      "versionName": "0.3.0-playtest1",
+      "versionCode": 4,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.3.0-playtest1/ethical-sudoku-0.3.0-playtest1.apk",
+      "sha256": "ff27e99198e581088d4e064f66da37a6b40cc9009cdfeb628626fc474d2fcef1",
+      "size": 12483905,
+      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
       "oldIds": []
     }
   ]
