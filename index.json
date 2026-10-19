@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T01:37:54Z",
+  "updated": "2026-10-19T01:38:51Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.9.1-playtest1",
-      "versionCode": 7,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.9.1-playtest1/ethical-freecell-0.9.1-playtest1.apk",
-      "sha256": "f44ec6d744c70b0487f845cf8b051b430e7debe0a3db9f6fd45b34c068821140",
-      "size": 13527513,
-      "notes": "Fixes Hint looping: following hints could move a card back and forth forever. Hint now never leads back to a position you've already played.",
+      "versionName": "0.10.0-playtest1",
+      "versionCode": 8,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.10.0-playtest1/ethical-freecell-0.10.0-playtest1.apk",
+      "sha256": "61787d3c768d633b46e9cdaa03fe01419b0f6e68ce3034b24f1c205393f8038b",
+      "size": 14643519,
+      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
