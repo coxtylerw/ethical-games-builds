@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T22:21:23Z",
+  "updated": "2026-10-19T22:22:20Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.10.0-playtest1",
-      "versionCode": 7,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.10.0-playtest1/ethical-pyramid-0.10.0-playtest1.apk",
-      "sha256": "895558e0cad022da1803f528c0ab45f07332da18e0f0e94711faf066549d52cf",
-      "size": 14650003,
-      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
+      "versionName": "0.11.0-playtest1",
+      "versionCode": 8,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.11.0-playtest1/ethical-pyramid-0.11.0-playtest1.apk",
+      "sha256": "fc1790ad6ff298ea5835bf8b357aaf74c02ebe38d35aadf0318237817445750f",
+      "size": 15445581,
+      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
