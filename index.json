@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T01:39:47Z",
+  "updated": "2026-10-19T01:40:42Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.9.0-playtest1",
-      "versionCode": 6,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.9.0-playtest1/ethical-tripeaks-0.9.0-playtest1.apk",
-      "sha256": "3ce0ecf67d06488f13f025a01f22aac255d4436fa65448f25359beb720d9f7f2",
-      "size": 13510929,
-      "notes": "Motion: cards glide between piles (on by default, Menu \u203a Theme \u203a Animate moves); Undo plays moves backwards. Rewind replaces Hint when a deal was last winnable more than 3 moves ago. Classic theme (red and black cards) replaces Programmer Art; Look is now Theme.",
+      "versionName": "0.10.0-playtest1",
+      "versionCode": 7,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.10.0-playtest1/ethical-tripeaks-0.10.0-playtest1.apk",
+      "sha256": "9ec33b8871f29732de22deb891123291707d98652d491abbe3d6b67491f5ca0e",
+      "size": 14645843,
+      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
