@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T01:42:34Z",
+  "updated": "2026-10-19T01:43:39Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.10.0-playtest1",
-      "versionCode": 8,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.10.0-playtest1/ethical-mahjong-0.10.0-playtest1.apk",
-      "sha256": "2cec6066fb30a0ace40787dbd06699eb50791784aafb1ffe19abb2c8d2538db9",
-      "size": 12957321,
-      "notes": "Motion: matched pairs fly to the middle and fade, Shuffle slides tiles, Finish clears pair by pair (on by default, Menu \u203a Theme \u203a Animate moves); Undo plays moves backwards. Classic theme replaces Programmer Art; Look is now Theme.",
+      "versionName": "0.11.0-playtest1",
+      "versionCode": 9,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.11.0-playtest1/ethical-mahjong-0.11.0-playtest1.apk",
+      "sha256": "a5f5a11973a5401e07a1848b1a08270df8a2514e820a310023f2c28762c4a90c",
+      "size": 13646250,
+      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
