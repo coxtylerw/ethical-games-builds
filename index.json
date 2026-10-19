@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T01:38:51Z",
+  "updated": "2026-10-19T01:39:47Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.9.1-playtest1",
-      "versionCode": 7,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.9.1-playtest1/ethical-spider-0.9.1-playtest1.apk",
-      "sha256": "679985a523eab009987db884ffee4c6c6e88707a874fcf3d3192c438a1a75b1a",
-      "size": 13527425,
-      "notes": "Fixes Hint looping: following hints could move a card back and forth forever. Hint now never leads back to a position you've already played.",
+      "versionName": "0.10.0-playtest1",
+      "versionCode": 8,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.10.0-playtest1/ethical-spider-0.10.0-playtest1.apk",
+      "sha256": "20e7aa2aad13d0b2f37b44d4fd922bfc9c32b3be69d638fa5ff36043ab7545c7",
+      "size": 14651182,
+      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
