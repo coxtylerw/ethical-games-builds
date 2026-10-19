@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T22:23:19Z",
+  "updated": "2026-10-19T22:24:29Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.11.0-playtest1",
-      "versionCode": 9,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.11.0-playtest1/ethical-mahjong-0.11.0-playtest1.apk",
-      "sha256": "a5f5a11973a5401e07a1848b1a08270df8a2514e820a310023f2c28762c4a90c",
-      "size": 13646250,
-      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
+      "versionName": "0.12.0-playtest1",
+      "versionCode": 10,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.12.0-playtest1/ethical-mahjong-0.12.0-playtest1.apk",
+      "sha256": "10e5180589b1b708c7ec1f3c51adda290dc52ac8d9df5c27d4fe2ae80cba6881",
+      "size": 13958167,
+      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow). Unicorn tiles: fixed selection frame and larger numbers.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
