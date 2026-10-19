@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T22:18:40Z",
+  "updated": "2026-10-19T22:19:34Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.10.0-playtest1",
-      "versionCode": 8,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.10.0-playtest1/ethical-freecell-0.10.0-playtest1.apk",
-      "sha256": "61787d3c768d633b46e9cdaa03fe01419b0f6e68ce3034b24f1c205393f8038b",
-      "size": 14643519,
-      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
+      "versionName": "0.11.0-playtest1",
+      "versionCode": 9,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.11.0-playtest1/ethical-freecell-0.11.0-playtest1.apk",
+      "sha256": "078d65008158542ead990e9f535e4bfb424c093679e3ffccdef10f203cb65f4b",
+      "size": 15445725,
+      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
