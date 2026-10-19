@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T01:40:42Z",
+  "updated": "2026-10-19T01:41:37Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.9.0-playtest1",
-      "versionCode": 6,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.9.0-playtest1/ethical-pyramid-0.9.0-playtest1.apk",
-      "sha256": "b3c52e802be4b98d6e1d9b94110b635005314b66b589266491bef3ebc32e4cf7",
-      "size": 13527369,
-      "notes": "Motion: cards glide between piles (on by default, Menu \u203a Theme \u203a Animate moves); Undo plays moves backwards. Rewind replaces Hint when a deal was last winnable more than 3 moves ago. Classic theme (red and black cards) replaces Programmer Art; Look is now Theme.",
+      "versionName": "0.10.0-playtest1",
+      "versionCode": 7,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.10.0-playtest1/ethical-pyramid-0.10.0-playtest1.apk",
+      "sha256": "895558e0cad022da1803f528c0ab45f07332da18e0f0e94711faf066549d52cf",
+      "size": 14650003,
+      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
