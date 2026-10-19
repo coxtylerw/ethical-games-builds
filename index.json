@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T01:41:37Z",
+  "updated": "2026-10-19T01:42:34Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.9.0-playtest1",
-      "versionCode": 6,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.9.0-playtest1/ethical-golf-0.9.0-playtest1.apk",
-      "sha256": "5931cd3e1e56c53102e72e22cdead5aa7e7042fd2f721f08311d1b7487b5fb45",
-      "size": 13510993,
-      "notes": "Motion: cards glide between piles (on by default, Menu \u203a Theme \u203a Animate moves); Undo plays moves backwards. Rewind replaces Hint when a deal was last winnable more than 3 moves ago. Classic theme (red and black cards) replaces Programmer Art; Look is now Theme.",
+      "versionName": "0.10.0-playtest1",
+      "versionCode": 7,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.10.0-playtest1/ethical-golf-0.10.0-playtest1.apk",
+      "sha256": "7197e2411220ae00b4891950f4385dce13ec7a7986c7390d0df58d2d1eb54f8f",
+      "size": 14648661,
+      "notes": "New Unicorn theme: pastel unicorn art on a rainbow polka-dot table (Menu \u203a Theme \u203a Unicorn).",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
