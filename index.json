@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T00:08:49Z",
+  "updated": "2026-10-22T00:09:54Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.12.1-playtest1",
-      "versionCode": 11,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.12.1-playtest1/ethical-mahjong-0.12.1-playtest1.apk",
-      "sha256": "b885118aa2b6be87622414a4227aafb6084265ab82a21afe43196073165e7d61",
-      "size": 13958163,
-      "notes": "Tray mode: Hint shows both tiles of the pair, and prefers pairs over parking a tile in the tray.",
+      "versionName": "0.13.0-playtest1",
+      "versionCode": 12,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.13.0-playtest1/ethical-mahjong-0.13.0-playtest1.apk",
+      "sha256": "3971eda0cecae7fa3b853f21903de4ae018a7042842780066f0778afded8a88a",
+      "size": 14650796,
+      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
