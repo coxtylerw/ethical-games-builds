@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T00:09:54Z",
+  "updated": "2026-10-22T00:10:48Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.3.0-playtest1",
-      "versionCode": 4,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.3.0-playtest1/ethical-sudoku-0.3.0-playtest1.apk",
-      "sha256": "ff27e99198e581088d4e064f66da37a6b40cc9009cdfeb628626fc474d2fcef1",
-      "size": 12483905,
-      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
+      "versionName": "0.4.0-playtest1",
+      "versionCode": 5,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.4.0-playtest1/ethical-sudoku-0.4.0-playtest1.apk",
+      "sha256": "ec937b2579352a22b44de2229cb3e033bbe4492a2c7d56e8a28a7ff4a50ee418",
+      "size": 12763371,
+      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
       "oldIds": []
     }
   ]
