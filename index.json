@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:11:03Z",
+  "updated": "2026-10-22T05:11:56Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.12.0-playtest1",
-      "versionCode": 9,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.12.0-playtest1/ethical-tripeaks-0.12.0-playtest1.apk",
-      "sha256": "c500663febf30ec8acdfea3d145d5bb486ed8ef5054d158e2a0bc9775eaf5dc7",
+      "versionName": "0.12.1-playtest1",
+      "versionCode": 10,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.12.1-playtest1/ethical-tripeaks-0.12.1-playtest1.apk",
+      "sha256": "06781032da40e3d9e25f038173c3a6309ca85dc9321c77bdd25b5e02b6f6fe52",
       "size": 16688869,
-      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
+      "notes": "Winning shows a panel with a New game button.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
