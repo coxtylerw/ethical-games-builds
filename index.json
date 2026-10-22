@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T00:04:11Z",
+  "updated": "2026-10-22T00:05:05Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.11.0-playtest1",
-      "versionCode": 9,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.11.0-playtest1/ethical-freecell-0.11.0-playtest1.apk",
-      "sha256": "078d65008158542ead990e9f535e4bfb424c093679e3ffccdef10f203cb65f4b",
-      "size": 15445725,
-      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
+      "versionName": "0.12.0-playtest1",
+      "versionCode": 10,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.12.0-playtest1/ethical-freecell-0.12.0-playtest1.apk",
+      "sha256": "3308dabc26109ac80f9213724b12b790740289280536434dcb0a5659789725ab",
+      "size": 16689065,
+      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
