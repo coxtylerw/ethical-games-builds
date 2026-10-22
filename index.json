@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:09:12Z",
+  "updated": "2026-10-22T05:10:07Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.12.0-playtest1",
-      "versionCode": 10,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.12.0-playtest1/ethical-freecell-0.12.0-playtest1.apk",
-      "sha256": "3308dabc26109ac80f9213724b12b790740289280536434dcb0a5659789725ab",
-      "size": 16689065,
-      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
+      "versionName": "0.12.1-playtest1",
+      "versionCode": 11,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.12.1-playtest1/ethical-freecell-0.12.1-playtest1.apk",
+      "sha256": "c0574054f95ea640afc32e942d4e5937c15a3665daf5a3633fda94d150d0ffd4",
+      "size": 16705449,
+      "notes": "Winning shows a panel with a New game button.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
