@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:36:49Z",
+  "updated": "2026-10-22T05:37:48Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.12.1-playtest1",
-      "versionCode": 10,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.12.1-playtest1/ethical-golf-0.12.1-playtest1.apk",
-      "sha256": "d4d7d515a4960234859f9c59aace920a62c575d0b485d26fa542aead30da327a",
+      "versionName": "0.12.2-playtest1",
+      "versionCode": 11,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.12.2-playtest1/ethical-golf-0.12.2-playtest1.apk",
+      "sha256": "1d7d2bac3c3d8bd4742e552cb6b93bea3ca2dd3ba8f3b9fd1a840cda378a831f",
       "size": 16688937,
-      "notes": "Winning shows a panel with a New game button.",
+      "notes": "The win panel is dressed like the theme's menu.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
