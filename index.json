@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T00:05:05Z",
+  "updated": "2026-10-22T00:06:01Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.11.0-playtest1",
-      "versionCode": 9,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.11.0-playtest1/ethical-spider-0.11.0-playtest1.apk",
-      "sha256": "95f3f86886ea03fa1479b2dae624b125b7192325d8e6c62c50128b95f1b84cac",
-      "size": 15462025,
-      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
+      "versionName": "0.12.0-playtest1",
+      "versionCode": 10,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.12.0-playtest1/ethical-spider-0.12.0-playtest1.apk",
+      "sha256": "a4db76c1ccda0b154e7e7e2a147949a2297bb72ba5b5d9a653505e2cff9d9fb8",
+      "size": 16705369,
+      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
