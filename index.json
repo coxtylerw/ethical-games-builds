@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T22:56:13Z",
+  "updated": "2026-10-22T00:04:11Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.11.0-playtest1",
-      "versionCode": 10,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.11.0-playtest1/ethical-solitaire-0.11.0-playtest1.apk",
-      "sha256": "4e1b82ca0d977040887d70319e908200f03baacdac6b743f48f7503b4ff83b5e",
-      "size": 15445550,
-      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
+      "versionName": "0.12.0-playtest1",
+      "versionCode": 11,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.12.0-playtest1/ethical-solitaire-0.12.0-playtest1.apk",
+      "sha256": "4371aa5a167cd152eda237fb27dac7b69aaf88dc4dc07de4c258fea1d9725d0f",
+      "size": 16688894,
+      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
