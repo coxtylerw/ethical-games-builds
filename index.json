@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:12:54Z",
+  "updated": "2026-10-22T05:13:52Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.12.0-playtest1",
-      "versionCode": 9,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.12.0-playtest1/ethical-golf-0.12.0-playtest1.apk",
-      "sha256": "d2dfd767c93159eb8ac657a01d1460e79ae1ea425adca5ee034b29cef7c3e8f1",
+      "versionName": "0.12.1-playtest1",
+      "versionCode": 10,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.12.1-playtest1/ethical-golf-0.12.1-playtest1.apk",
+      "sha256": "d4d7d515a4960234859f9c59aace920a62c575d0b485d26fa542aead30da327a",
       "size": 16688937,
-      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
+      "notes": "Winning shows a panel with a New game button.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
