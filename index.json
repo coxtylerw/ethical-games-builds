@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T00:10:48Z",
+  "updated": "2026-10-22T05:09:12Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.12.0-playtest1",
-      "versionCode": 11,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.12.0-playtest1/ethical-solitaire-0.12.0-playtest1.apk",
-      "sha256": "4371aa5a167cd152eda237fb27dac7b69aaf88dc4dc07de4c258fea1d9725d0f",
-      "size": 16688894,
-      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
+      "versionName": "0.12.1-playtest1",
+      "versionCode": 12,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.12.1-playtest1/ethical-solitaire-0.12.1-playtest1.apk",
+      "sha256": "cdd51408dba60f57bb957e51f0b9f91815390e34cd4b65cbc7aa38829f35ce8a",
+      "size": 16705278,
+      "notes": "Finish (fast-forward) appears once every column card is face up and plays the game out; winning shows a New game panel.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
