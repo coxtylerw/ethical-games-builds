@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T00:06:55Z",
+  "updated": "2026-10-22T00:07:53Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.11.0-playtest1",
-      "versionCode": 8,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.11.0-playtest1/ethical-pyramid-0.11.0-playtest1.apk",
-      "sha256": "fc1790ad6ff298ea5835bf8b357aaf74c02ebe38d35aadf0318237817445750f",
-      "size": 15445581,
-      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
+      "versionName": "0.12.0-playtest1",
+      "versionCode": 9,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.12.0-playtest1/ethical-pyramid-0.12.0-playtest1.apk",
+      "sha256": "e2ef07e1e7e1dfca0eb69038fb2f681e7024f0fab59d9e40dd3108250b9237fe",
+      "size": 16688925,
+      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
