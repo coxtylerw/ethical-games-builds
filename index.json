@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T00:06:01Z",
+  "updated": "2026-10-22T00:06:55Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.11.0-playtest1",
-      "versionCode": 8,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.11.0-playtest1/ethical-tripeaks-0.11.0-playtest1.apk",
-      "sha256": "ee6f9355158c1353f0290806ab95b51b11203c6baea51cfc99c5b72851308218",
-      "size": 15445525,
-      "notes": "New Spookshow theme: a vintage Halloween carnival on a dark wood table (Menu \u203a Theme \u203a Spookshow).",
+      "versionName": "0.12.0-playtest1",
+      "versionCode": 9,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.12.0-playtest1/ethical-tripeaks-0.12.0-playtest1.apk",
+      "sha256": "c500663febf30ec8acdfea3d145d5bb486ed8ef5054d158e2a0bc9775eaf5dc7",
+      "size": 16688869,
+      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
