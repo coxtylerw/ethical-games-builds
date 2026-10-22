@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:32:33Z",
+  "updated": "2026-10-22T05:33:29Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.12.1-playtest1",
-      "versionCode": 11,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.12.1-playtest1/ethical-freecell-0.12.1-playtest1.apk",
-      "sha256": "c0574054f95ea640afc32e942d4e5937c15a3665daf5a3633fda94d150d0ffd4",
-      "size": 16705449,
-      "notes": "Winning shows a panel with a New game button.",
+      "versionName": "0.12.2-playtest1",
+      "versionCode": 12,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.12.2-playtest1/ethical-freecell-0.12.2-playtest1.apk",
+      "sha256": "f610abe99059f583989f9a6394417ddbdcd30f0a1062e162ef0ba01577511028",
+      "size": 16705453,
+      "notes": "The win panel is dressed like the theme's menu.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
