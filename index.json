@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:35:21Z",
+  "updated": "2026-10-22T05:36:49Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.12.1-playtest1",
-      "versionCode": 10,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.12.1-playtest1/ethical-pyramid-0.12.1-playtest1.apk",
-      "sha256": "d66614286a8f91d1313f2f9e5afefbdb4d9f2af33e2772b7778ab22785cf98d6",
+      "versionName": "0.12.2-playtest1",
+      "versionCode": 11,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.12.2-playtest1/ethical-pyramid-0.12.2-playtest1.apk",
+      "sha256": "5588c03f2b12c8427f28542443a3c3f3e872136808832d52fb05b4f43e37343a",
       "size": 16705309,
-      "notes": "Winning shows a panel with a New game button.",
+      "notes": "The win panel is dressed like the theme's menu.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
