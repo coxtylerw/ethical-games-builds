@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:34:27Z",
+  "updated": "2026-10-22T05:35:21Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.12.1-playtest1",
-      "versionCode": 10,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.12.1-playtest1/ethical-tripeaks-0.12.1-playtest1.apk",
-      "sha256": "06781032da40e3d9e25f038173c3a6309ca85dc9321c77bdd25b5e02b6f6fe52",
+      "versionName": "0.12.2-playtest1",
+      "versionCode": 11,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.12.2-playtest1/ethical-tripeaks-0.12.2-playtest1.apk",
+      "sha256": "72a477eb4f986c88d9a9440a076a125ed3a34993ed06a139b62c76b731afcf68",
       "size": 16688869,
-      "notes": "Winning shows a panel with a New game button.",
+      "notes": "The win panel is dressed like the theme's menu.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
