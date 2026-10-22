@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:33:29Z",
+  "updated": "2026-10-22T05:34:27Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.12.1-playtest1",
-      "versionCode": 11,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.12.1-playtest1/ethical-spider-0.12.1-playtest1.apk",
-      "sha256": "d128e58543b2ac450f3fe490b8bb5975365202325337275ad78f9b6a3f031521",
+      "versionName": "0.12.2-playtest1",
+      "versionCode": 12,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.12.2-playtest1/ethical-spider-0.12.2-playtest1.apk",
+      "sha256": "3d03d64a735969c9bc7f6e113ef29274e44fa9c5797354057a5aa4d1198c1fda",
       "size": 16705365,
-      "notes": "Winning shows a panel with a New game button.",
+      "notes": "The win panel is dressed like the theme's menu.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
