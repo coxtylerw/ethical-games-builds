@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:13:52Z",
+  "updated": "2026-10-22T05:32:33Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.12.1-playtest1",
-      "versionCode": 12,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.12.1-playtest1/ethical-solitaire-0.12.1-playtest1.apk",
-      "sha256": "cdd51408dba60f57bb957e51f0b9f91815390e34cd4b65cbc7aa38829f35ce8a",
+      "versionName": "0.12.2-playtest1",
+      "versionCode": 13,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.12.2-playtest1/ethical-solitaire-0.12.2-playtest1.apk",
+      "sha256": "5d6ef00b960a81c9a253215f2fa9de29c5a1068ea5eb90c19b3b4d673058168a",
       "size": 16705278,
-      "notes": "Finish (fast-forward) appears once every column card is face up and plays the game out; winning shows a New game panel.",
+      "notes": "The win panel is dressed like the theme's menu.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
