@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T05:11:56Z",
+  "updated": "2026-10-22T05:12:54Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.12.0-playtest1",
-      "versionCode": 9,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.12.0-playtest1/ethical-pyramid-0.12.0-playtest1.apk",
-      "sha256": "e2ef07e1e7e1dfca0eb69038fb2f681e7024f0fab59d9e40dd3108250b9237fe",
-      "size": 16688925,
-      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
+      "versionName": "0.12.1-playtest1",
+      "versionCode": 10,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.12.1-playtest1/ethical-pyramid-0.12.1-playtest1.apk",
+      "sha256": "d66614286a8f91d1313f2f9e5afefbdb4d9f2af33e2772b7778ab22785cf98d6",
+      "size": 16705309,
+      "notes": "Winning shows a panel with a New game button.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
