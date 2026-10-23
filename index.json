@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-23T05:10:28Z",
+  "updated": "2026-10-23T05:11:26Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.4.0-playtest1",
-      "versionCode": 5,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.4.0-playtest1/ethical-sudoku-0.4.0-playtest1.apk",
-      "sha256": "ec937b2579352a22b44de2229cb3e033bbe4492a2c7d56e8a28a7ff4a50ee418",
-      "size": 12763371,
-      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
+      "versionName": "0.5.0-playtest1",
+      "versionCode": 6,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.5.0-playtest1/ethical-sudoku-0.5.0-playtest1.apk",
+      "sha256": "038db0745b6dff2a15e8520c08d0c56832813ea3b683bc6fec978dea39b9305c",
+      "size": 13227019,
+      "notes": "Fireworks in the theme's own particles when you solve a puzzle. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
       "oldIds": []
     }
   ]
