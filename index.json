@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-23T05:04:29Z",
+  "updated": "2026-10-23T05:05:27Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.12.2-playtest1",
-      "versionCode": 12,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.12.2-playtest1/ethical-freecell-0.12.2-playtest1.apk",
-      "sha256": "f610abe99059f583989f9a6394417ddbdcd30f0a1062e162ef0ba01577511028",
-      "size": 16705453,
-      "notes": "The win panel is dressed like the theme's menu.",
+      "versionName": "0.13.0-playtest1",
+      "versionCode": 13,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.13.0-playtest1/ethical-freecell-0.13.0-playtest1.apk",
+      "sha256": "37579ce51f5742caccd34b9d6d36de0934195b5bd5b14dd19824a75e0cc7c830",
+      "size": 17169093,
+      "notes": "Win animations: four shows at random (Bounce, Fountain, Orbit, Fireworks) in each theme's own particles; pip bursts on foundations and matched pairs. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
