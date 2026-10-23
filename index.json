@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-23T05:07:21Z",
+  "updated": "2026-10-23T05:08:18Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.12.2-playtest1",
-      "versionCode": 11,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.12.2-playtest1/ethical-pyramid-0.12.2-playtest1.apk",
-      "sha256": "5588c03f2b12c8427f28542443a3c3f3e872136808832d52fb05b4f43e37343a",
-      "size": 16705309,
-      "notes": "The win panel is dressed like the theme's menu.",
+      "versionName": "0.13.0-playtest1",
+      "versionCode": 12,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.13.0-playtest1/ethical-pyramid-0.13.0-playtest1.apk",
+      "sha256": "5cb0eaf0412ba8f62148dd72da8f20b0c1a81bd888709c934b4c415f6fd556b1",
+      "size": 17168949,
+      "notes": "Win animations: four shows at random (Bounce, Fountain, Orbit, Fireworks) in each theme's own particles; pip bursts on foundations and matched pairs. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
