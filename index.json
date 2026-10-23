@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-23T05:09:16Z",
+  "updated": "2026-10-23T05:10:28Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.13.0-playtest1",
-      "versionCode": 12,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.13.0-playtest1/ethical-mahjong-0.13.0-playtest1.apk",
-      "sha256": "3971eda0cecae7fa3b853f21903de4ae018a7042842780066f0778afded8a88a",
-      "size": 14650796,
-      "notes": "New Steampunk theme: brass, aether and clockwork on a polished walnut table (Menu \u203a Theme \u203a Steampunk).",
+      "versionName": "0.14.0-playtest1",
+      "versionCode": 13,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.14.0-playtest1/ethical-mahjong-0.14.0-playtest1.apk",
+      "sha256": "df47b1fda6bdde0c07e5ef617d564f06675f3dc6bb9aef68d5bb8544776b2285",
+      "size": 15130804,
+      "notes": "Win animations: your tiles come back out of the middle in one of four shows, in each theme's own particles; matched pairs burst into small copies of themselves. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
