@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T06:16:25Z",
+  "updated": "2026-10-24T06:17:20Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.13.0-playtest1",
-      "versionCode": 13,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.13.0-playtest1/ethical-freecell-0.13.0-playtest1.apk",
-      "sha256": "37579ce51f5742caccd34b9d6d36de0934195b5bd5b14dd19824a75e0cc7c830",
-      "size": 17169093,
-      "notes": "Win animations: four shows at random (Bounce, Fountain, Orbit, Fireworks) in each theme's own particles; pip bursts on foundations and matched pairs. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
+      "versionName": "0.14.0-playtest1",
+      "versionCode": 14,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.14.0-playtest1/ethical-freecell-0.14.0-playtest1.apk",
+      "sha256": "df8143d3ba629a0ee5c73e09f9022f97a0387f4fa7e29c0290d4f541a7f1273d",
+      "size": 17185477,
+      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
