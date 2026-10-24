@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T06:18:14Z",
+  "updated": "2026-10-24T06:19:04Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.13.0-playtest1",
-      "versionCode": 12,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.13.0-playtest1/ethical-tripeaks-0.13.0-playtest1.apk",
-      "sha256": "48333137e50844199e60da0403066325153f584718fb7eafab0ea7ffdc8874b0",
-      "size": 17152509,
-      "notes": "Win animations: four shows at random (Bounce, Fountain, Orbit, Fireworks) in each theme's own particles; pip bursts on foundations and matched pairs. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
+      "versionName": "0.14.0-playtest1",
+      "versionCode": 13,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.14.0-playtest1/ethical-tripeaks-0.14.0-playtest1.apk",
+      "sha256": "bd9fa8ed1dcc35efac8588440689dbd519cac5e803552c3a4c5cd97601731bdb",
+      "size": 17168893,
+      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
