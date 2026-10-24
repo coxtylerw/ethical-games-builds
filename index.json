@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-23T05:11:26Z",
+  "updated": "2026-10-24T06:16:25Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.13.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.13.0-playtest1/ethical-solitaire-0.13.0-playtest1.apk",
-      "sha256": "e1bec6fe42c71ea611f138c1845e73a4e976b25d5a6a00fc99236e8187f8c74c",
-      "size": 17168918,
-      "notes": "Win animations: four shows at random (Bounce, Fountain, Orbit, Fireworks) in each theme's own particles; pip bursts on foundations and matched pairs. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
+      "versionName": "0.14.0-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.14.0-playtest1/ethical-solitaire-0.14.0-playtest1.apk",
+      "sha256": "246ef8965f71d1b0b8b27e17a2ae6bea73c49c8592afc240ca98035b2d12b41e",
+      "size": 17185302,
+      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
