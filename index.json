@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T06:20:53Z",
+  "updated": "2026-10-24T06:22:08Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.14.0-playtest1",
-      "versionCode": 13,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.14.0-playtest1/ethical-mahjong-0.14.0-playtest1.apk",
-      "sha256": "df47b1fda6bdde0c07e5ef617d564f06675f3dc6bb9aef68d5bb8544776b2285",
+      "versionName": "0.15.0-playtest1",
+      "versionCode": 14,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.15.0-playtest1/ethical-mahjong-0.15.0-playtest1.apk",
+      "sha256": "b66951ba74e2b272e8713720432347df9328402d6450e467db5a00548daa31d5",
       "size": 15130804,
-      "notes": "Win animations: your tiles come back out of the middle in one of four shows, in each theme's own particles; matched pairs burst into small copies of themselves. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
+      "notes": "Pinch to zoom (up to 400 %) and drag to move around, replacing the magnifier; Undo is off once the board is clear.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
