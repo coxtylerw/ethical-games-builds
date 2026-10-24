@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T06:17:20Z",
+  "updated": "2026-10-24T06:18:14Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.13.0-playtest1",
-      "versionCode": 13,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.13.0-playtest1/ethical-spider-0.13.0-playtest1.apk",
-      "sha256": "04089d422e2bd72c7d5fe9af1b0c1d8540d9a999d3406570895ec5514d427952",
-      "size": 17169009,
-      "notes": "Win animations: four shows at random (Bounce, Fountain, Orbit, Fireworks) in each theme's own particles; pip bursts on foundations and matched pairs. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
+      "versionName": "0.14.0-playtest1",
+      "versionCode": 14,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.14.0-playtest1/ethical-spider-0.14.0-playtest1.apk",
+      "sha256": "96ba1412a9a09a294af3b4f329561c5574a46cc60ff0f1ecbdba3ee5b09ed925",
+      "size": 17185393,
+      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
