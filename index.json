@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T06:19:57Z",
+  "updated": "2026-10-24T06:20:53Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.13.0-playtest1",
-      "versionCode": 12,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.13.0-playtest1/ethical-golf-0.13.0-playtest1.apk",
-      "sha256": "4a3051df9cb0c2eb76c8456b6892fd61a6c1d8c6f21ce50df350315826ab998e",
-      "size": 17152581,
-      "notes": "Win animations: four shows at random (Bounce, Fountain, Orbit, Fireworks) in each theme's own particles; pip bursts on foundations and matched pairs. Menu > Theme > Motion > Win animations turns them off; a tap skips.",
+      "versionName": "0.14.0-playtest1",
+      "versionCode": 13,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.14.0-playtest1/ethical-golf-0.14.0-playtest1.apk",
+      "sha256": "811fbb57e45c7d033aa2fbde0e2a5cbc15b3b3ab7708279500fbc8afdd789063",
+      "size": 17168961,
+      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
