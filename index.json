@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T20:55:25Z",
+  "updated": "2026-10-25T20:56:26Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.15.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.15.0-playtest1/ethical-golf-0.15.0-playtest1.apk",
-      "sha256": "39c401f3d2d06512fbe288746cb3d4567d248eaa375cffef8aa13f5358570828",
-      "size": 17202730,
-      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
+      "versionName": "0.16.0-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.16.0-playtest1/ethical-golf-0.16.0-playtest1.apk",
+      "sha256": "e07d18779bb8eee5f373bc73b3aa50f7296d772276a2addfc7c66d454acb9648",
+      "size": 17310307,
+      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
