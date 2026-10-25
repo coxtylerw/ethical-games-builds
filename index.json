@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T21:48:35Z",
+  "updated": "2026-10-25T21:49:36Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.16.0-playtest1",
-      "versionCode": 15,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.16.0-playtest1/ethical-golf-0.16.0-playtest1.apk",
-      "sha256": "e07d18779bb8eee5f373bc73b3aa50f7296d772276a2addfc7c66d454acb9648",
-      "size": 17310307,
-      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
+      "versionName": "0.17.0-playtest1",
+      "versionCode": 16,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.17.0-playtest1/ethical-golf-0.17.0-playtest1.apk",
+      "sha256": "9a5f64e9ea076cb8eb4ddb44ed9669c8f9906fcb4f0a946e671bedc0d4dbb6e0",
+      "size": 17326687,
+      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
