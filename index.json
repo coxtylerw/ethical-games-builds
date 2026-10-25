@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T19:44:41Z",
+  "updated": "2026-10-25T19:45:36Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.14.0-playtest1",
-      "versionCode": 13,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.14.0-playtest1/ethical-tripeaks-0.14.0-playtest1.apk",
-      "sha256": "bd9fa8ed1dcc35efac8588440689dbd519cac5e803552c3a4c5cd97601731bdb",
-      "size": 17168893,
-      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
+      "versionName": "0.15.0-playtest1",
+      "versionCode": 14,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.15.0-playtest1/ethical-tripeaks-0.15.0-playtest1.apk",
+      "sha256": "c404f44f6efb21f0df8065aaa52b416f878ce862808f29c8d245df98cc49f6a9",
+      "size": 17186278,
+      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
