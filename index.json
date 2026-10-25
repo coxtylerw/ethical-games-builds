@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T19:49:43Z",
+  "updated": "2026-10-25T20:51:31Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.15.0-playtest1",
-      "versionCode": 16,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.15.0-playtest1/ethical-solitaire-0.15.0-playtest1.apk",
-      "sha256": "5ca1cc4730cf1f9dc0f58bb1e6306e65679f432cf7a2495a37c7a2d98e29b034",
-      "size": 17202679,
-      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
+      "versionName": "0.16.0-playtest1",
+      "versionCode": 17,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.16.0-playtest1/ethical-solitaire-0.16.0-playtest1.apk",
+      "sha256": "52e47f9d74c12f612ae2a03b63a4f970c808efdb66fc6505a507b1ab46f8cdc1",
+      "size": 17310256,
+      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
