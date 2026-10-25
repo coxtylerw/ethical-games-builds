@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T21:46:39Z",
+  "updated": "2026-10-25T21:47:36Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.16.0-playtest1",
-      "versionCode": 15,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.16.0-playtest1/ethical-tripeaks-0.16.0-playtest1.apk",
-      "sha256": "138d2b477e5abac65f10ead04179ba2537170d600786e580207f19a29213684e",
-      "size": 17310239,
-      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
+      "versionName": "0.17.0-playtest1",
+      "versionCode": 16,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.17.0-playtest1/ethical-tripeaks-0.17.0-playtest1.apk",
+      "sha256": "66429059606cf2044615ef223e3fc8794a90dfc8c2265939444b9c736a1df6a9",
+      "size": 17310235,
+      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
