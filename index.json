@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T21:44:42Z",
+  "updated": "2026-10-25T21:45:40Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.16.0-playtest1",
-      "versionCode": 16,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.16.0-playtest1/ethical-freecell-0.16.0-playtest1.apk",
-      "sha256": "dfbb9c4c817c1c88059bc1ea1860a664f6ee7bad84163c14463a4867e39f43ba",
+      "versionName": "0.17.0-playtest1",
+      "versionCode": 17,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.17.0-playtest1/ethical-freecell-0.17.0-playtest1.apk",
+      "sha256": "c0d142c3243af40f82f143c66073a47025b4a1816c3403c48fa90ad6991dc40c",
       "size": 17326823,
-      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
+      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
