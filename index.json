@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T19:47:34Z",
+  "updated": "2026-10-25T19:48:46Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.15.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.15.0-playtest1/ethical-mahjong-0.15.0-playtest1.apk",
-      "sha256": "b66951ba74e2b272e8713720432347df9328402d6450e467db5a00548daa31d5",
-      "size": 15130804,
-      "notes": "Pinch to zoom (up to 400 %) and drag to move around, replacing the magnifier; Undo is off once the board is clear.",
+      "versionName": "0.16.0-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.16.0-playtest1/ethical-mahjong-0.16.0-playtest1.apk",
+      "sha256": "4066b84e30481100b2e8015887699bfc50b6dd4791c4afb3316ca6803c7faad2",
+      "size": 15148189,
+      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
