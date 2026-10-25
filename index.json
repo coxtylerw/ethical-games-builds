@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T21:45:40Z",
+  "updated": "2026-10-25T21:46:39Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.16.0-playtest1",
-      "versionCode": 16,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.16.0-playtest1/ethical-spider-0.16.0-playtest1.apk",
-      "sha256": "10638173fff188549160b8ebef15b1a42cad8688983351cf11efa41c8d2c7434",
+      "versionName": "0.17.0-playtest1",
+      "versionCode": 17,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.17.0-playtest1/ethical-spider-0.17.0-playtest1.apk",
+      "sha256": "e8766df391d9d3774cb9b4a7b30b8b49c3237f5c260bb6ca55b5cab14467a553",
       "size": 17326735,
-      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
+      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
