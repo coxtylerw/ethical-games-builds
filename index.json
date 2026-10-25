@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T20:57:38Z",
+  "updated": "2026-10-25T20:58:37Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.7.0-playtest1",
-      "versionCode": 8,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.7.0-playtest1/ethical-sudoku-0.7.0-playtest1.apk",
-      "sha256": "e2a6d37a4dc85834a55e093e3440139e0bc514a2dce3ed373f873779b2cc7f53",
-      "size": 13260788,
-      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
+      "versionName": "0.8.0-playtest1",
+      "versionCode": 9,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.8.0-playtest1/ethical-sudoku-0.8.0-playtest1.apk",
+      "sha256": "c629bd08c9d576c19a168d3e2106c8b328bf9c0af6ac2ef7369f38061e321118",
+      "size": 13384558,
+      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
       "oldIds": []
     }
   ]
