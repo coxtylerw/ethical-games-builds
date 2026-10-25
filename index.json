@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T21:47:36Z",
+  "updated": "2026-10-25T21:48:35Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.16.0-playtest1",
-      "versionCode": 15,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.16.0-playtest1/ethical-pyramid-0.16.0-playtest1.apk",
-      "sha256": "d3d84eb1bcc79a235ff78ba00c29a25c3be26c749293ed1becef64923ccca1a8",
-      "size": 17310295,
-      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
+      "versionName": "0.17.0-playtest1",
+      "versionCode": 16,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.17.0-playtest1/ethical-pyramid-0.17.0-playtest1.apk",
+      "sha256": "2b4b264e90eaa85d4f28d18c02421e5a7e249619db5ad4ade0c44dd0a4be889a",
+      "size": 17326679,
+      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
