@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T19:42:44Z",
+  "updated": "2026-10-25T19:43:43Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.14.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.14.0-playtest1/ethical-freecell-0.14.0-playtest1.apk",
-      "sha256": "df8143d3ba629a0ee5c73e09f9022f97a0387f4fa7e29c0290d4f541a7f1273d",
-      "size": 17185477,
-      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
+      "versionName": "0.15.0-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.15.0-playtest1/ethical-freecell-0.15.0-playtest1.apk",
+      "sha256": "e1b28f023159a51bddb30335c57a8de7120ec7bc753c87fd5f504428fed576b8",
+      "size": 17202862,
+      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
