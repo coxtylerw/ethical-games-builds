@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T19:43:43Z",
+  "updated": "2026-10-25T19:44:41Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.14.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.14.0-playtest1/ethical-spider-0.14.0-playtest1.apk",
-      "sha256": "96ba1412a9a09a294af3b4f329561c5574a46cc60ff0f1ecbdba3ee5b09ed925",
-      "size": 17185393,
-      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
+      "versionName": "0.15.0-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.15.0-playtest1/ethical-spider-0.15.0-playtest1.apk",
+      "sha256": "09e59ef8cd8d9970fc72d60ec83cb964cf76189062e3616dace349a9be212978",
+      "size": 17202774,
+      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
