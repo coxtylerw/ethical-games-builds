@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T20:52:29Z",
+  "updated": "2026-10-25T20:53:29Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.15.0-playtest1",
-      "versionCode": 15,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.15.0-playtest1/ethical-spider-0.15.0-playtest1.apk",
-      "sha256": "09e59ef8cd8d9970fc72d60ec83cb964cf76189062e3616dace349a9be212978",
-      "size": 17202774,
-      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
+      "versionName": "0.16.0-playtest1",
+      "versionCode": 16,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.16.0-playtest1/ethical-spider-0.16.0-playtest1.apk",
+      "sha256": "10638173fff188549160b8ebef15b1a42cad8688983351cf11efa41c8d2c7434",
+      "size": 17326735,
+      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
