@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T19:45:36Z",
+  "updated": "2026-10-25T19:46:34Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.14.0-playtest1",
-      "versionCode": 13,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.14.0-playtest1/ethical-pyramid-0.14.0-playtest1.apk",
-      "sha256": "947c6bb14d8518e3b9b97ea220ceb723b31bceb7730693a05e20d9bf4a666883",
-      "size": 17185333,
-      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
+      "versionName": "0.15.0-playtest1",
+      "versionCode": 14,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.15.0-playtest1/ethical-pyramid-0.15.0-playtest1.apk",
+      "sha256": "67f93edac2bb2246a78e4f31d9e190a30a1feaad8319ba97b6202c51bab3e81d",
+      "size": 17202718,
+      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
