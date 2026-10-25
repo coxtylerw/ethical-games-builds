@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T20:58:37Z",
+  "updated": "2026-10-25T21:44:42Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.16.0-playtest1",
-      "versionCode": 17,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.16.0-playtest1/ethical-solitaire-0.16.0-playtest1.apk",
-      "sha256": "52e47f9d74c12f612ae2a03b63a4f970c808efdb66fc6505a507b1ab46f8cdc1",
-      "size": 17310256,
-      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
+      "versionName": "0.17.0-playtest1",
+      "versionCode": 18,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.17.0-playtest1/ethical-solitaire-0.17.0-playtest1.apk",
+      "sha256": "642bdc515432e24fadb168e64bd0d166b3077f61aea07603fde3f87c0a2dccc5",
+      "size": 17326640,
+      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
