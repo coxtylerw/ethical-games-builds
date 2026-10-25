@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T19:46:34Z",
+  "updated": "2026-10-25T19:47:34Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.14.0-playtest1",
-      "versionCode": 13,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.14.0-playtest1/ethical-golf-0.14.0-playtest1.apk",
-      "sha256": "811fbb57e45c7d033aa2fbde0e2a5cbc15b3b3ab7708279500fbc8afdd789063",
-      "size": 17168961,
-      "notes": "Pinch the table to zoom (up to 400 %) and drag to move around; Undo is off once a game is won.",
+      "versionName": "0.15.0-playtest1",
+      "versionCode": 14,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.15.0-playtest1/ethical-golf-0.15.0-playtest1.apk",
+      "sha256": "39c401f3d2d06512fbe288746cb3d4567d248eaa375cffef8aa13f5358570828",
+      "size": 17202730,
+      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
