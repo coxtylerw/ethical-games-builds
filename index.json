@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T20:56:26Z",
+  "updated": "2026-10-25T20:57:38Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.16.0-playtest1",
-      "versionCode": 15,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.16.0-playtest1/ethical-mahjong-0.16.0-playtest1.apk",
-      "sha256": "4066b84e30481100b2e8015887699bfc50b6dd4791c4afb3316ca6803c7faad2",
-      "size": 15148189,
-      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
+      "versionName": "0.17.0-playtest1",
+      "versionCode": 16,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.17.0-playtest1/ethical-mahjong-0.17.0-playtest1.apk",
+      "sha256": "af3df38e6b20723704efd74486ba564f30ebe5a1eb7301b3012b646cedf8ffb1",
+      "size": 15272335,
+      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
