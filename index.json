@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T20:54:27Z",
+  "updated": "2026-10-25T20:55:25Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.15.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.15.0-playtest1/ethical-pyramid-0.15.0-playtest1.apk",
-      "sha256": "67f93edac2bb2246a78e4f31d9e190a30a1feaad8319ba97b6202c51bab3e81d",
-      "size": 17202718,
-      "notes": "New: Menu \u203a Statistics (positive, per mode, clearable). Backups carry settings, stats and saves to a new phone.",
+      "versionName": "0.16.0-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.16.0-playtest1/ethical-pyramid-0.16.0-playtest1.apk",
+      "sha256": "d3d84eb1bcc79a235ff78ba00c29a25c3be26c749293ed1becef64923ccca1a8",
+      "size": 17310295,
+      "notes": "New: Menu \u203a Settings with sound, haptics and a left-handed layout; motion switches and mid-game options moved there.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
