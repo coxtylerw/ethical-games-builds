@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T01:24:56Z",
+  "updated": "2026-10-26T01:25:55Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.17.0-playtest1",
-      "versionCode": 17,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.17.0-playtest1/ethical-freecell-0.17.0-playtest1.apk",
-      "sha256": "c0d142c3243af40f82f143c66073a47025b4a1816c3403c48fa90ad6991dc40c",
-      "size": 17326823,
-      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
+      "versionName": "0.18.0-playtest1",
+      "versionCode": 18,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.18.0-playtest1/ethical-freecell-0.18.0-playtest1.apk",
+      "sha256": "d6ab8159554ac84c0c1578c8978fa95b6868307250fb81d43692f814d3602fb3",
+      "size": 17526955,
+      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
