@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T01:32:26Z",
+  "updated": "2026-10-26T02:37:38Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.18.0-playtest1",
-      "versionCode": 19,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.18.0-playtest1/ethical-solitaire-0.18.0-playtest1.apk",
-      "sha256": "853687f9ca1de020c9f003a1c3d46e4a51cca81e4937921ed4d22528b232de1b",
-      "size": 17506948,
-      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
+      "versionName": "0.18.1-playtest1",
+      "versionCode": 20,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.18.1-playtest1/ethical-solitaire-0.18.1-playtest1.apk",
+      "sha256": "08b9af90a27e70bfd824d6cb55d3c14152bcba09adb340fca000afdc622460d7",
+      "size": 17506944,
+      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
