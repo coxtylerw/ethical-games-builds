@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T01:27:57Z",
+  "updated": "2026-10-26T01:29:04Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.17.0-playtest1",
-      "versionCode": 16,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.17.0-playtest1/ethical-pyramid-0.17.0-playtest1.apk",
-      "sha256": "2b4b264e90eaa85d4f28d18c02421e5a7e249619db5ad4ade0c44dd0a4be889a",
-      "size": 17326679,
-      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
+      "versionName": "0.18.0-playtest1",
+      "versionCode": 17,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.18.0-playtest1/ethical-pyramid-0.18.0-playtest1.apk",
+      "sha256": "292ccf809bdf6740142533f8afd51376be59b015b77edcd4c3c306b3455641ad",
+      "size": 17521371,
+      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
