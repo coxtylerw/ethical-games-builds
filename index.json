@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T02:41:06Z",
+  "updated": "2026-10-26T02:42:16Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.18.0-playtest1",
-      "versionCode": 17,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.18.0-playtest1/ethical-pyramid-0.18.0-playtest1.apk",
-      "sha256": "292ccf809bdf6740142533f8afd51376be59b015b77edcd4c3c306b3455641ad",
+      "versionName": "0.18.1-playtest1",
+      "versionCode": 18,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.18.1-playtest1/ethical-pyramid-0.18.1-playtest1.apk",
+      "sha256": "8cf9fd02bd164c3228f8b385a58ead7163d29671df8738109a56f819e226a832",
       "size": 17521371,
-      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
+      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
