@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T02:44:54Z",
+  "updated": "2026-10-26T02:46:04Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.9.0-playtest1",
-      "versionCode": 10,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.9.0-playtest1/ethical-sudoku-0.9.0-playtest1.apk",
-      "sha256": "3caf48675a4fc6116a4cdb7b0dbd75f5b0768c57bafd9a541e1ff94716455323",
+      "versionName": "0.9.1-playtest1",
+      "versionCode": 11,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.9.1-playtest1/ethical-sudoku-0.9.1-playtest1.apk",
+      "sha256": "a4dbf0af33b05a76e3a90ab1c48388840c2094e1495728afa2cd71c3c5c708fc",
       "size": 13674098,
-      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
+      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
       "oldIds": []
     }
   ]
