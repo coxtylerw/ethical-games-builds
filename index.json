@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T01:29:04Z",
+  "updated": "2026-10-26T01:30:10Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.17.0-playtest1",
-      "versionCode": 16,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.17.0-playtest1/ethical-golf-0.17.0-playtest1.apk",
-      "sha256": "9a5f64e9ea076cb8eb4ddb44ed9669c8f9906fcb4f0a946e671bedc0d4dbb6e0",
-      "size": 17326687,
-      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
+      "versionName": "0.18.0-playtest1",
+      "versionCode": 17,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.18.0-playtest1/ethical-golf-0.18.0-playtest1.apk",
+      "sha256": "7acd693f5fe7b3650ae3722ef43a2f744e739fadcdf976e9c904eb28ba3deb6c",
+      "size": 17501203,
+      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
