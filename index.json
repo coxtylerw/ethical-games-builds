@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T02:42:16Z",
+  "updated": "2026-10-26T02:43:30Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.18.0-playtest1",
-      "versionCode": 17,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.18.0-playtest1/ethical-golf-0.18.0-playtest1.apk",
-      "sha256": "7acd693f5fe7b3650ae3722ef43a2f744e739fadcdf976e9c904eb28ba3deb6c",
+      "versionName": "0.18.1-playtest1",
+      "versionCode": 18,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.18.1-playtest1/ethical-golf-0.18.1-playtest1.apk",
+      "sha256": "8223d7d9c335f9e21701f51eee9ce7fb51da32b1ffb2d943312e27f7d8633123",
       "size": 17501203,
-      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
+      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
