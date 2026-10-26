@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T02:39:59Z",
+  "updated": "2026-10-26T02:41:06Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.18.0-playtest1",
-      "versionCode": 17,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.18.0-playtest1/ethical-tripeaks-0.18.0-playtest1.apk",
-      "sha256": "a7f43377758320a99f64fd08dce0c6f00ad50b4f6fe962cd090179e296ec772e",
+      "versionName": "0.18.1-playtest1",
+      "versionCode": 18,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.18.1-playtest1/ethical-tripeaks-0.18.1-playtest1.apk",
+      "sha256": "cc7610617568e383938948511013d198a7b4e685c27d4f74e8173140f7464cc6",
       "size": 17484319,
-      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
+      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
