@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T01:26:56Z",
+  "updated": "2026-10-26T01:27:57Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.17.0-playtest1",
-      "versionCode": 16,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.17.0-playtest1/ethical-tripeaks-0.17.0-playtest1.apk",
-      "sha256": "66429059606cf2044615ef223e3fc8794a90dfc8c2265939444b9c736a1df6a9",
-      "size": 17310235,
-      "notes": "New: Why? on hints (Detailed hints in Settings); Solitaire and FreeCell: safe cards home and Finish automatically.",
+      "versionName": "0.18.0-playtest1",
+      "versionCode": 17,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.18.0-playtest1/ethical-tripeaks-0.18.0-playtest1.apk",
+      "sha256": "a7f43377758320a99f64fd08dce0c6f00ad50b4f6fe962cd090179e296ec772e",
+      "size": 17484319,
+      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
