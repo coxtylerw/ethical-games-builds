@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T02:38:48Z",
+  "updated": "2026-10-26T02:39:59Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.18.0-playtest1",
-      "versionCode": 18,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.18.0-playtest1/ethical-spider-0.18.0-playtest1.apk",
-      "sha256": "3cd628de7ba6d7c885d2d32826888b1827f4a3d61203cb7fad0c417c15103d07",
+      "versionName": "0.18.1-playtest1",
+      "versionCode": 19,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.18.1-playtest1/ethical-spider-0.18.1-playtest1.apk",
+      "sha256": "aaad555be1d320575091ef511d03c1bf00b5c84716447c5307f3284008cf1253",
       "size": 17514239,
-      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
+      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
