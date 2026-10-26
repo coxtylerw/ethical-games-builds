@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T02:43:30Z",
+  "updated": "2026-10-26T02:44:54Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.18.0-playtest1",
-      "versionCode": 17,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.18.0-playtest1/ethical-mahjong-0.18.0-playtest1.apk",
-      "sha256": "345f445720eaff6397c642950d1d50bd804abc6daad554d67eb70a2ee18b705d",
+      "versionName": "0.18.1-playtest1",
+      "versionCode": 18,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.18.1-playtest1/ethical-mahjong-0.18.1-playtest1.apk",
+      "sha256": "9619b88b152ab5b1a945c81f434e54ad982477b9958b92a1083fb06c92ea96d9",
       "size": 15486567,
-      "notes": "Nine languages: English, Spanish, Portuguese (Brazil), French, German, Italian, Russian, Chinese and Japanese. Pick one in Menu > Settings > Language.",
+      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
