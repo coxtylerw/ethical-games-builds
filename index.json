@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T02:46:04Z",
+  "updated": "2026-10-27T04:17:49Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.18.1-playtest1",
-      "versionCode": 20,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.18.1-playtest1/ethical-solitaire-0.18.1-playtest1.apk",
-      "sha256": "08b9af90a27e70bfd824d6cb55d3c14152bcba09adb340fca000afdc622460d7",
-      "size": 17506944,
-      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
+      "versionName": "0.19.0-playtest1",
+      "versionCode": 21,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.19.0-playtest1/ethical-solitaire-0.19.0-playtest1.apk",
+      "sha256": "e9f8364ec61748315a784514b155baba5c85d842caaa4deac6830213d2a1dbc8",
+      "size": 17524992,
+      "notes": "New game can now restart the deal you're playing",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
