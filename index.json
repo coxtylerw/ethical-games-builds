@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T04:18:50Z",
+  "updated": "2026-10-27T04:19:50Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.18.1-playtest1",
-      "versionCode": 19,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.18.1-playtest1/ethical-spider-0.18.1-playtest1.apk",
-      "sha256": "aaad555be1d320575091ef511d03c1bf00b5c84716447c5307f3284008cf1253",
-      "size": 17514239,
-      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
+      "versionName": "0.19.0-playtest1",
+      "versionCode": 20,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.19.0-playtest1/ethical-spider-0.19.0-playtest1.apk",
+      "sha256": "21d11559bc0de891783e1a8cbb2997a9ce64a29c43982300bea76a3f3b6260bc",
+      "size": 17515899,
+      "notes": "New game can now restart the deal you're playing",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
