@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T04:22:59Z",
+  "updated": "2026-10-27T04:24:14Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.18.1-playtest1",
-      "versionCode": 18,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.18.1-playtest1/ethical-mahjong-0.18.1-playtest1.apk",
-      "sha256": "9619b88b152ab5b1a945c81f434e54ad982477b9958b92a1083fb06c92ea96d9",
-      "size": 15486567,
-      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
+      "versionName": "0.19.0-playtest1",
+      "versionCode": 19,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.19.0-playtest1/ethical-mahjong-0.19.0-playtest1.apk",
+      "sha256": "68cfaff333f27ae4e22ccf2dc27be4e1d452188a0bd938432f756ba13a56e894",
+      "size": 15488231,
+      "notes": "New game can now restart the deal you're playing",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
