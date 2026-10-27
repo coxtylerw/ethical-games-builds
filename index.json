@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T04:19:50Z",
+  "updated": "2026-10-27T04:20:51Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.18.1-playtest1",
-      "versionCode": 18,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.18.1-playtest1/ethical-tripeaks-0.18.1-playtest1.apk",
-      "sha256": "cc7610617568e383938948511013d198a7b4e685c27d4f74e8173140f7464cc6",
-      "size": 17484319,
-      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
+      "versionName": "0.19.0-playtest1",
+      "versionCode": 19,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.19.0-playtest1/ethical-tripeaks-0.19.0-playtest1.apk",
+      "sha256": "9353f938d6f541969aff9641e8cb29a237e2012464ca12f19571b561bd06ca9d",
+      "size": 17502367,
+      "notes": "New game can now restart the deal you're playing",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
