@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T04:20:51Z",
+  "updated": "2026-10-27T04:21:53Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.18.1-playtest1",
-      "versionCode": 18,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.18.1-playtest1/ethical-pyramid-0.18.1-playtest1.apk",
-      "sha256": "8cf9fd02bd164c3228f8b385a58ead7163d29671df8738109a56f819e226a832",
-      "size": 17521371,
-      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
+      "versionName": "0.19.0-playtest1",
+      "versionCode": 19,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.19.0-playtest1/ethical-pyramid-0.19.0-playtest1.apk",
+      "sha256": "4a3540637eabefd5944b352c0360f8ebc03ca8574aca6ed960dc7c20b7fc7a92",
+      "size": 17523035,
+      "notes": "New game can now restart the deal you're playing",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
