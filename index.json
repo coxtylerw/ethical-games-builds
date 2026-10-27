@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T05:50:13Z",
+  "updated": "2026-10-27T18:06:02Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -122,6 +122,18 @@
       "sha256": "a4dbf0af33b05a76e3a90ab1c48388840c2094e1495728afa2cd71c3c5c708fc",
       "size": 13674098,
       "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
+      "oldIds": []
+    },
+    {
+      "id": "app.ethicalgames.killersudoku",
+      "name": "Ethical Killer Sudoku",
+      "game": "Killer Sudoku",
+      "versionName": "0.1.0-playtest1",
+      "versionCode": 1,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.1.0-playtest1/ethical-killersudoku-0.1.0-playtest1.apk",
+      "sha256": "8619f03f2c5389c9d8c6103df69c73e4ef3de1f4489ea3ccd735d8a4b69cd881",
+      "size": 13985106,
+      "notes": "First build: Killer Sudoku with cages and sums, no given digits, teaching hints for cage combinations, the rule of 45 and innies and outies, every theme, nine languages.",
       "oldIds": []
     }
   ]
