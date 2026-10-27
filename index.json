@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T04:21:53Z",
+  "updated": "2026-10-27T04:22:59Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.18.1-playtest1",
-      "versionCode": 18,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.18.1-playtest1/ethical-golf-0.18.1-playtest1.apk",
-      "sha256": "8223d7d9c335f9e21701f51eee9ce7fb51da32b1ffb2d943312e27f7d8633123",
-      "size": 17501203,
-      "notes": "Fixed: choosing a language in Menu > Settings > Language now works.",
+      "versionName": "0.19.0-playtest1",
+      "versionCode": 19,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.19.0-playtest1/ethical-golf-0.19.0-playtest1.apk",
+      "sha256": "ae7fd30eb260d65608e6186f8d764f56b611298e8403c75bfc32c198988f38db",
+      "size": 17502867,
+      "notes": "New game can now restart the deal you're playing",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
