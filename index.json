@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T04:24:14Z",
+  "updated": "2026-10-27T05:50:13Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.19.0-playtest1",
-      "versionCode": 19,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.19.0-playtest1/ethical-mahjong-0.19.0-playtest1.apk",
-      "sha256": "68cfaff333f27ae4e22ccf2dc27be4e1d452188a0bd938432f756ba13a56e894",
-      "size": 15488231,
-      "notes": "New game can now restart the deal you're playing",
+      "versionName": "0.20.0-playtest1",
+      "versionCode": 20,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.20.0-playtest1/ethical-mahjong-0.20.0-playtest1.apk",
+      "sha256": "b1ecf3f42e7f48b5639a020ec1d9e3a98f624535b985070c1981b64d2a04eec8",
+      "size": 15559255,
+      "notes": "100 campaign levels that vary rather than climb, listed twenty at a time",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
