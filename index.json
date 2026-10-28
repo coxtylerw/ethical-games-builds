@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-28T12:03:33Z",
+  "updated": "2026-10-28T22:52:00Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -146,6 +146,18 @@
       "sha256": "ab659afd5be42edd2188fd1182eba9a55d0b0625929b07b49bf14706d02cd75c",
       "size": 13649119,
       "notes": "Clearer hint wording: every way to fill the line fills some of the same cells and leaves some of the same cells empty.",
+      "oldIds": []
+    },
+    {
+      "id": "app.ethicalgames.minesweeper",
+      "name": "Ethical Minesweeper",
+      "game": "Minesweeper",
+      "versionName": "0.1.0-playtest1",
+      "versionCode": 1,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.1.0-playtest1/ethical-minesweeper-0.1.0-playtest1.apk",
+      "sha256": "6f899b65402583031f86148e51aa1a4d446427ab41a5a4f67c8bef6dd6af9a0f",
+      "size": 13809479,
+      "notes": "First build: 100 levels and free play, every board solvable without guessing; free hints that explain; opened mines undo.",
       "oldIds": []
     }
   ]
