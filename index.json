@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-28T06:34:30Z",
+  "updated": "2026-10-28T11:45:25Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "0.1.0-playtest1",
-      "versionCode": 1,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.1.0-playtest1/ethical-nonogram-0.1.0-playtest1.apk",
-      "sha256": "00a384adb50c3d2255efd3cfd9d2e22b54e07f8ee45e711962c5c4a5fc5dbeff",
-      "size": 14285794,
-      "notes": "First build: 114 hand-drawn picture puzzles and 8 scenes in nine collections, every one solvable by logic alone, with teaching hints, free checks and assists.",
+      "versionName": "0.1.1-playtest1",
+      "versionCode": 2,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.1.1-playtest1/ethical-nonogram-0.1.1-playtest1.apk",
+      "sha256": "001fbbcfa0a778e3c31c5fef7578134460829226dd6f9b21b71094bb4e7ccc4e",
+      "size": 13647471,
+      "notes": "Fixed: a hint's Why page said a line had only one way to go when it had several.",
       "oldIds": []
     }
   ]
