@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-28T11:48:41Z",
+  "updated": "2026-10-28T11:51:38Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "0.1.2-playtest1",
-      "versionCode": 3,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.1.2-playtest1/ethical-nonogram-0.1.2-playtest1.apk",
-      "sha256": "097e8f73788d3f1ddc4ede73c7ed702241229b0e4cc3f99842716e6922bc895f",
-      "size": 13647475,
-      "notes": "Fixed: Undo and Redo stayed greyed out after a move until another button was pressed.",
+      "versionName": "0.1.3-playtest1",
+      "versionCode": 4,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.1.3-playtest1/ethical-nonogram-0.1.3-playtest1.apk",
+      "sha256": "b55b031db844ff613027fe17bc052f60b8324679e73bcb2ad8d0d5fce0929480",
+      "size": 13648731,
+      "notes": "Colour symbols are off at first; turn them on in Menu > Settings > Assists if colours are hard to tell apart.",
       "oldIds": []
     }
   ]
