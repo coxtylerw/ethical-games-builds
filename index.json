@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-28T11:51:38Z",
+  "updated": "2026-10-28T12:03:33Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "0.1.3-playtest1",
-      "versionCode": 4,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.1.3-playtest1/ethical-nonogram-0.1.3-playtest1.apk",
-      "sha256": "b55b031db844ff613027fe17bc052f60b8324679e73bcb2ad8d0d5fce0929480",
-      "size": 13648731,
-      "notes": "Colour symbols are off at first; turn them on in Menu > Settings > Assists if colours are hard to tell apart.",
+      "versionName": "0.1.4-playtest1",
+      "versionCode": 5,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.1.4-playtest1/ethical-nonogram-0.1.4-playtest1.apk",
+      "sha256": "ab659afd5be42edd2188fd1182eba9a55d0b0625929b07b49bf14706d02cd75c",
+      "size": 13649119,
+      "notes": "Clearer hint wording: every way to fill the line fills some of the same cells and leaves some of the same cells empty.",
       "oldIds": []
     }
   ]
