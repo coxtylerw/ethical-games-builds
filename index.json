@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "updated": "2026-10-28T22:52:00Z",
+  "updated": "2026-10-28T22:53:00Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
       "name": "Ethical Games Installer",
       "game": "Installs and updates the test builds",
-      "versionName": "0.1.3",
-      "versionCode": 4,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/installer-v0.1.3/ethical-games-installer-0.1.3.apk",
-      "sha256": "b6c82b128d6a7b5f408a2600210ae539be6d9e28928b55fae58afb0e65dc25e0",
-      "size": 11598848,
-      "notes": "Detects Ethical Nonogram.",
+      "versionName": "0.1.4",
+      "versionCode": 5,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/installer-v0.1.4/ethical-games-installer-0.1.4.apk",
+      "sha256": "290dfdbdb161c46611a06174f35bb998c7e71b55fd060fc80d3c3276c2a3d14a",
+      "size": 11598876,
+      "notes": "Knows about Ethical Minesweeper.",
       "oldIds": []
     },
     {
