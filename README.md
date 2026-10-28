@@ -6,6 +6,9 @@ kept elsewhere.
 
 These builds are temporary, for testers, until the games are on Google Play.
 
+Published here: the installer and ten games (Solitaire, FreeCell, Spider, TriPeaks, Pyramid, Golf, Mahjong,
+Sudoku, Killer Sudoku and Nonogram). `index.json` has the current version of each.
+
 ## Installing
 
 1. On your Android phone (8.0 or newer), open the latest **Ethical Games Installer** release on this page's
