@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-29T01:25:49Z",
+  "updated": "2026-10-29T01:26:54Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.19.0-playtest1",
-      "versionCode": 19,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.19.0-playtest1/ethical-pyramid-0.19.0-playtest1.apk",
-      "sha256": "4a3540637eabefd5944b352c0360f8ebc03ca8574aca6ed960dc7c20b7fc7a92",
-      "size": 17523035,
-      "notes": "New game can now restart the deal you're playing",
+      "versionName": "0.19.1-playtest1",
+      "versionCode": 20,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.19.1-playtest1/ethical-pyramid-0.19.1-playtest1.apk",
+      "sha256": "cff697cf22768b4123f77cd9296c17e12bbf0f56811fc421ac8b43801539188d",
+      "size": 17523171,
+      "notes": "Every language other than English reviewed and corrected.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
