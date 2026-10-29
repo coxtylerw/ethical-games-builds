@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-29T01:32:58Z",
+  "updated": "2026-10-29T02:51:35Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "0.1.5-playtest1",
-      "versionCode": 6,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.1.5-playtest1/ethical-nonogram-0.1.5-playtest1.apk",
-      "sha256": "7bb0e058dafeb42089acced011f9f9dbcd186d3017658d93a17d1d5eb597a8e0",
-      "size": 13649263,
-      "notes": "Every language other than English reviewed and corrected.",
+      "versionName": "0.1.6-playtest1",
+      "versionCode": 7,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.1.6-playtest1/ethical-nonogram-0.1.6-playtest1.apk",
+      "sha256": "95b11808bfee9790be0d2af58ee122c2dad70beaf33b15b36f06d4b7e3783bf1",
+      "size": 13684618,
+      "notes": "The colour row shows when more colours are off screen (faded edge, scroll arrow), and one-colour puzzles show their colour; only the tutorial is black and white.",
       "oldIds": []
     },
     {
