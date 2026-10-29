@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-29T01:22:37Z",
+  "updated": "2026-10-29T01:23:40Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.19.0-playtest1",
-      "versionCode": 20,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.19.0-playtest1/ethical-freecell-0.19.0-playtest1.apk",
-      "sha256": "8963a2f265183de24d6f23b7668c9ff12c198ae25a605456ebfe58196ec39d00",
-      "size": 17528615,
-      "notes": "New game can now restart the deal you're playing",
+      "versionName": "0.19.1-playtest1",
+      "versionCode": 21,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.19.1-playtest1/ethical-freecell-0.19.1-playtest1.apk",
+      "sha256": "19ebf7869a65c41552f2aac30e25ce40b61fe929afbdc9ad31f819048e1968c2",
+      "size": 17528751,
+      "notes": "Every language other than English reviewed and corrected.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
