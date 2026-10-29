@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-29T01:23:40Z",
+  "updated": "2026-10-29T01:24:45Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.19.0-playtest1",
-      "versionCode": 20,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.19.0-playtest1/ethical-spider-0.19.0-playtest1.apk",
-      "sha256": "21d11559bc0de891783e1a8cbb2997a9ce64a29c43982300bea76a3f3b6260bc",
-      "size": 17515899,
-      "notes": "New game can now restart the deal you're playing",
+      "versionName": "0.19.1-playtest1",
+      "versionCode": 21,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.19.1-playtest1/ethical-spider-0.19.1-playtest1.apk",
+      "sha256": "a5833dfaa4c75e81280e141297a2c5d4143e4ba86eb91dcc99ea6ea9667c6120",
+      "size": 17532419,
+      "notes": "Every language other than English reviewed and corrected.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
