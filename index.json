@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T22:51:56Z",
+  "updated": "2026-10-30T22:54:00Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.21.0-playtest1",
-      "versionCode": 22,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.21.0-playtest1/ethical-mahjong-0.21.0-playtest1.apk",
-      "sha256": "10df06f78bcaa60c1b1712c5b318f677393f0de55b77e70dbf5d8af34e679220",
-      "size": 16417682,
-      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
+      "versionName": "0.22.0-playtest1",
+      "versionCode": 23,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.22.0-playtest1/ethical-mahjong-0.22.0-playtest1.apk",
+      "sha256": "a1b491bb8c6b41627bcab9cf9c7a4f8ffdce46a902fb791eb80955e705849e3b",
+      "size": 17127733,
+      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
