@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-29T02:51:35Z",
+  "updated": "2026-10-30T06:38:39Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.19.1-playtest1",
-      "versionCode": 22,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.19.1-playtest1/ethical-solitaire-0.19.1-playtest1.apk",
-      "sha256": "0d429c9b642c80194c369b10f2ee32e0184b6a3a85abd3719052e5449a0bc4dd",
-      "size": 17525124,
-      "notes": "Every language other than English reviewed and corrected.",
+      "versionName": "0.20.0-playtest1",
+      "versionCode": 23,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.20.0-playtest1/ethical-solitaire-0.20.0-playtest1.apk",
+      "sha256": "a40bbb56f9c268270d3c1d5b395aef147c981c79bb762b780fcfbf63d909a338",
+      "size": 18741270,
+      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
