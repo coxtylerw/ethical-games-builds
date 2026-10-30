@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T06:42:56Z",
+  "updated": "2026-10-30T06:44:02Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.19.1-playtest1",
-      "versionCode": 20,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.19.1-playtest1/ethical-golf-0.19.1-playtest1.apk",
-      "sha256": "da26a6da35bdd97f7de9168bf18c6332763d7bdc9db1564a12ef8faa9b07a4b4",
-      "size": 17503003,
-      "notes": "Every language other than English reviewed and corrected.",
+      "versionName": "0.20.0-playtest1",
+      "versionCode": 21,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.20.0-playtest1/ethical-golf-0.20.0-playtest1.apk",
+      "sha256": "36d9ca659657d11c4985d8dec9aa7cd71d0ee7a7140ae71bb89b70b2123072d3",
+      "size": 18719145,
+      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
