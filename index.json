@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T06:45:33Z",
+  "updated": "2026-10-30T06:46:34Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.9.2-playtest1",
-      "versionCode": 12,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.9.2-playtest1/ethical-sudoku-0.9.2-playtest1.apk",
-      "sha256": "9b3f456b54a22bfae14073b15f44deaaaa683e1739d1998b7df362f5d3903a82",
-      "size": 13674246,
-      "notes": "Every language other than English reviewed and corrected.",
+      "versionName": "0.10.0-playtest1",
+      "versionCode": 13,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.10.0-playtest1/ethical-sudoku-0.10.0-playtest1.apk",
+      "sha256": "a8c25007d061753faab887b68eb47ab6b7feadbbf3d6681dcd3d6d7d3f241fa8",
+      "size": 14148776,
+      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
       "oldIds": []
     },
     {
