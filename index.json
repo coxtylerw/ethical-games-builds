@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T22:57:04Z",
+  "updated": "2026-10-30T22:58:28Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "0.2.0-playtest1",
-      "versionCode": 8,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.2.0-playtest1/ethical-nonogram-0.2.0-playtest1.apk",
-      "sha256": "c4eaf39151e8acf6b96b130724580564a78b1192f5f0c82fa9731e0de3b77991",
-      "size": 14123793,
-      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
+      "versionName": "0.3.0-playtest1",
+      "versionCode": 9,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.3.0-playtest1/ethical-nonogram-0.3.0-playtest1.apk",
+      "sha256": "4df7d1e079ec86b845613f4bc53dccfba22135f97866bdf79b98e2b76e03c988",
+      "size": 14525567,
+      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
       "oldIds": []
     },
     {
