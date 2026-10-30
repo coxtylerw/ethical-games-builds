@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T06:40:51Z",
+  "updated": "2026-10-30T06:41:52Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.19.1-playtest1",
-      "versionCode": 20,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.19.1-playtest1/ethical-tripeaks-0.19.1-playtest1.apk",
-      "sha256": "c851ef71f919a68caeddd235d92c2fee0de026194d08df4e2b4b2d2cf11b9e1d",
-      "size": 17502503,
-      "notes": "Every language other than English reviewed and corrected.",
+      "versionName": "0.20.0-playtest1",
+      "versionCode": 21,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.20.0-playtest1/ethical-tripeaks-0.20.0-playtest1.apk",
+      "sha256": "5e607c9e274823a41755b62d2f9f5ff46881161983c7ad3c491113d2897ba512",
+      "size": 18718645,
+      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
