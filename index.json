@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T22:44:19Z",
+  "updated": "2026-10-30T22:46:00Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.20.0-playtest1",
-      "versionCode": 22,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.20.0-playtest1/ethical-freecell-0.20.0-playtest1.apk",
-      "sha256": "d66daf08ffa12d19246a600e331f03c8a600481d1715c5638e993795dd22dac2",
-      "size": 18744897,
-      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
+      "versionName": "0.21.0-playtest1",
+      "versionCode": 23,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.21.0-playtest1/ethical-freecell-0.21.0-playtest1.apk",
+      "sha256": "d8f4047a77a0fe48961a8c9bc3e9ccdd3c97073607f9c9d6694b828cca9c6c77",
+      "size": 20399407,
+      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
