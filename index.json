@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T22:47:30Z",
+  "updated": "2026-10-30T22:48:56Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.20.0-playtest1",
-      "versionCode": 21,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.20.0-playtest1/ethical-tripeaks-0.20.0-playtest1.apk",
-      "sha256": "5e607c9e274823a41755b62d2f9f5ff46881161983c7ad3c491113d2897ba512",
-      "size": 18718645,
-      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
+      "versionName": "0.21.0-playtest1",
+      "versionCode": 22,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.21.0-playtest1/ethical-tripeaks-0.21.0-playtest1.apk",
+      "sha256": "7801c82a8b111e742e4149a1460a8bb23ebc41fe16afc77200f27d023aaa1951",
+      "size": 20373159,
+      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
