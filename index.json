@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T22:46:00Z",
+  "updated": "2026-10-30T22:47:30Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.20.0-playtest1",
-      "versionCode": 22,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.20.0-playtest1/ethical-spider-0.20.0-playtest1.apk",
-      "sha256": "48adc800daa9fc6269ba1b9793e048c32a6847d03eb791ad7724f8c65a51bd03",
-      "size": 18748565,
-      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
+      "versionName": "0.21.0-playtest1",
+      "versionCode": 23,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.21.0-playtest1/ethical-spider-0.21.0-playtest1.apk",
+      "sha256": "4d1a18808a5cb88b6fdfd92f27668aa6fb1a89c51d5ad2e89e014bbc6c5ec26e",
+      "size": 20403075,
+      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
