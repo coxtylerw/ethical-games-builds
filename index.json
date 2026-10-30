@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T22:54:00Z",
+  "updated": "2026-10-30T22:55:26Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.10.0-playtest1",
-      "versionCode": 13,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.10.0-playtest1/ethical-sudoku-0.10.0-playtest1.apk",
-      "sha256": "a8c25007d061753faab887b68eb47ab6b7feadbbf3d6681dcd3d6d7d3f241fa8",
-      "size": 14148776,
-      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
+      "versionName": "0.11.0-playtest1",
+      "versionCode": 14,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.11.0-playtest1/ethical-sudoku-0.11.0-playtest1.apk",
+      "sha256": "a97a59113412cea1e8b4eccf1d537056121d467fccb5a0849887083b6aa6fcaa",
+      "size": 14550550,
+      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
       "oldIds": []
     },
     {
