@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T22:58:28Z",
+  "updated": "2026-10-30T22:59:53Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -152,12 +152,12 @@
       "id": "app.ethicalgames.minesweeper",
       "name": "Ethical Minesweeper",
       "game": "Minesweeper",
-      "versionName": "0.2.0-playtest1",
-      "versionCode": 3,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.2.0-playtest1/ethical-minesweeper-0.2.0-playtest1.apk",
-      "sha256": "9d94e073dcb2e73bf906f6ed19a1dc29d8bb490cfcfc3d6311d03bfa9cd414e9",
-      "size": 14313553,
-      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
+      "versionName": "0.3.0-playtest1",
+      "versionCode": 4,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.3.0-playtest1/ethical-minesweeper-0.3.0-playtest1.apk",
+      "sha256": "39082302d33563c3b2414c75db03541586644f21bfe8263ddb2ec010b6e909b8",
+      "size": 14746051,
+      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
       "oldIds": []
     }
   ]
