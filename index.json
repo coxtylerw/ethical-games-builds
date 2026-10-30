@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T06:49:53Z",
+  "updated": "2026-10-30T22:44:19Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.20.0-playtest1",
-      "versionCode": 23,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.20.0-playtest1/ethical-solitaire-0.20.0-playtest1.apk",
-      "sha256": "a40bbb56f9c268270d3c1d5b395aef147c981c79bb762b780fcfbf63d909a338",
-      "size": 18741270,
-      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
+      "versionName": "0.21.0-playtest1",
+      "versionCode": 24,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.21.0-playtest1/ethical-solitaire-0.21.0-playtest1.apk",
+      "sha256": "6369f4a2caab5efa0d002c0e4f72c8367a9bea61cf036238ccd99a71e62e4ca7",
+      "size": 20395784,
+      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
