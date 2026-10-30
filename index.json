@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T06:39:45Z",
+  "updated": "2026-10-30T06:40:51Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.19.1-playtest1",
-      "versionCode": 21,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.19.1-playtest1/ethical-spider-0.19.1-playtest1.apk",
-      "sha256": "a5833dfaa4c75e81280e141297a2c5d4143e4ba86eb91dcc99ea6ea9667c6120",
-      "size": 17532419,
-      "notes": "Every language other than English reviewed and corrected.",
+      "versionName": "0.20.0-playtest1",
+      "versionCode": 22,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.20.0-playtest1/ethical-spider-0.20.0-playtest1.apk",
+      "sha256": "48adc800daa9fc6269ba1b9793e048c32a6847d03eb791ad7724f8c65a51bd03",
+      "size": 18748565,
+      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
