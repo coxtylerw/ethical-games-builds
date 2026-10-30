@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T22:48:56Z",
+  "updated": "2026-10-30T22:50:27Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.20.0-playtest1",
-      "versionCode": 21,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.20.0-playtest1/ethical-pyramid-0.20.0-playtest1.apk",
-      "sha256": "a826c9319756830d841974af08cc2931a7ae8f72c6aab06c3856babb6eb8b020",
-      "size": 18739317,
-      "notes": "New theme: Winter Cabin. Storybook animals in knit scarves, a red tartan table and frost highlights.",
+      "versionName": "0.21.0-playtest1",
+      "versionCode": 22,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.21.0-playtest1/ethical-pyramid-0.21.0-playtest1.apk",
+      "sha256": "4975ce7478bb698d0406cc4a43eda177889499ed4faef7520358ac5697da8b82",
+      "size": 20393827,
+      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
