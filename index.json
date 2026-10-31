@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-31T05:20:29Z",
+  "updated": "2026-10-31T05:21:59Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.22.0-playtest1",
-      "versionCode": 23,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.22.0-playtest1/ethical-mahjong-0.22.0-playtest1.apk",
-      "sha256": "a1b491bb8c6b41627bcab9cf9c7a4f8ffdce46a902fb791eb80955e705849e3b",
-      "size": 17127733,
-      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
+      "versionName": "0.23.0-playtest1",
+      "versionCode": 24,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.23.0-playtest1/ethical-mahjong-0.23.0-playtest1.apk",
+      "sha256": "d4f464f71dcacb0bb600e2cadf6c2c09ea5055145b51c8b4c0f6791ce653aa0c",
+      "size": 17550714,
+      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
