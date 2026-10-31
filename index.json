@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-31T05:23:02Z",
+  "updated": "2026-10-31T05:24:16Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -128,12 +128,12 @@
       "id": "app.ethicalgames.killersudoku",
       "name": "Ethical Killer Sudoku",
       "game": "Killer Sudoku",
-      "versionName": "0.3.0-playtest1",
-      "versionCode": 4,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.3.0-playtest1/ethical-killersudoku-0.3.0-playtest1.apk",
-      "sha256": "42eb0ff0578fdbd7a31b68acdf57507398271c8ba76e7e02880340a765135a97",
-      "size": 14861558,
-      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
+      "versionName": "0.4.0-playtest1",
+      "versionCode": 5,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.4.0-playtest1/ethical-killersudoku-0.4.0-playtest1.apk",
+      "sha256": "3f2d5f5fd0fd8e8189186358bcf9872280016f0d7f3db19f092d4066664bfe0e",
+      "size": 15284539,
+      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
       "oldIds": []
     },
     {
