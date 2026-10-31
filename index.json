@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-31T05:21:59Z",
+  "updated": "2026-10-31T05:23:02Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.11.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.11.0-playtest1/ethical-sudoku-0.11.0-playtest1.apk",
-      "sha256": "a97a59113412cea1e8b4eccf1d537056121d467fccb5a0849887083b6aa6fcaa",
-      "size": 14550550,
-      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
+      "versionName": "0.12.0-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.12.0-playtest1/ethical-sudoku-0.12.0-playtest1.apk",
+      "sha256": "759d1cd457672483e879f23073183c8338b96ddc63baf191a72f87c8daa5a06c",
+      "size": 14989915,
+      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
       "oldIds": []
     },
     {
