@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-31T05:24:16Z",
+  "updated": "2026-10-31T05:25:19Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "0.3.0-playtest1",
-      "versionCode": 9,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.3.0-playtest1/ethical-nonogram-0.3.0-playtest1.apk",
-      "sha256": "4df7d1e079ec86b845613f4bc53dccfba22135f97866bdf79b98e2b76e03c988",
-      "size": 14525567,
-      "notes": "New theme: Wildflower. Vintage watercolour wildflowers on parchment, a sage linen table and painted tiles.",
+      "versionName": "0.4.0-playtest1",
+      "versionCode": 10,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.4.0-playtest1/ethical-nonogram-0.4.0-playtest1.apk",
+      "sha256": "1a9e6a66792d3b11501237a90a2660a58e7605f65a0335f6378fe1b8bab07261",
+      "size": 14964932,
+      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
       "oldIds": []
     },
     {
