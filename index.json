@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-02T23:57:42Z",
+  "updated": "2026-11-02T23:58:45Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.22.0-playtest1",
-      "versionCode": 23,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.22.0-playtest1/ethical-tripeaks-0.22.0-playtest1.apk",
-      "sha256": "543a7074dd632df6a89977e3f3f876e6d6b19f357ff18e502fdd3f529d22cefd",
-      "size": 20796140,
-      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
+      "versionName": "0.22.1-playtest1",
+      "versionCode": 24,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.22.1-playtest1/ethical-tripeaks-0.22.1-playtest1.apk",
+      "sha256": "10a27c531b32fe037e0261070f3c42955ed44e5a3debb320e7310fb5a847e79c",
+      "size": 20789148,
+      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
