@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-31T05:26:23Z",
+  "updated": "2026-11-02T23:55:31Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.22.0-playtest1",
-      "versionCode": 25,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.22.0-playtest1/ethical-solitaire-0.22.0-playtest1.apk",
-      "sha256": "5724e9250e80d7ecc25a355c454bb6bf75523878e60e52b06f7a924283054d51",
-      "size": 20818761,
-      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
+      "versionName": "0.22.1-playtest1",
+      "versionCode": 26,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.22.1-playtest1/ethical-solitaire-0.22.1-playtest1.apk",
+      "sha256": "403a5c7efb1f12bc28523f2fba170f404b28fcde6039019890d05ad523a13751",
+      "size": 20811769,
+      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
