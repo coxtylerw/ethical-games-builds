@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-02T23:55:31Z",
+  "updated": "2026-11-02T23:56:37Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.22.0-playtest1",
-      "versionCode": 24,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.22.0-playtest1/ethical-freecell-0.22.0-playtest1.apk",
-      "sha256": "61115c46f87e68d2090def8280783bd5804aec382228c504f980bdae6f35278c",
-      "size": 20822388,
-      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
+      "versionName": "0.22.1-playtest1",
+      "versionCode": 25,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.22.1-playtest1/ethical-freecell-0.22.1-playtest1.apk",
+      "sha256": "c74623ca46fbcd5726512734ad43efd941453c6235aaa9c615bff9e3c5a63f4e",
+      "size": 20815396,
+      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
