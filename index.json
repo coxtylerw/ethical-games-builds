@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-02T23:56:37Z",
+  "updated": "2026-11-02T23:57:42Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.22.0-playtest1",
-      "versionCode": 24,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.22.0-playtest1/ethical-spider-0.22.0-playtest1.apk",
-      "sha256": "53a9d4e1d65d5d1627279f30fdbf7e52fdcfce88e34858a7e3429f2dfe839504",
-      "size": 20826056,
-      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
+      "versionName": "0.22.1-playtest1",
+      "versionCode": 25,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.22.1-playtest1/ethical-spider-0.22.1-playtest1.apk",
+      "sha256": "91f7cbeaac719f3a6dd97699b357953d70d1f191f4d583ea2a8cd87cd7b872c5",
+      "size": 20819064,
+      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
