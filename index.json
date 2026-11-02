@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-02T23:58:45Z",
+  "updated": "2026-11-02T23:59:51Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.22.0-playtest1",
-      "versionCode": 23,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.22.0-playtest1/ethical-pyramid-0.22.0-playtest1.apk",
-      "sha256": "d2f5267b9c354ed0e3540bfa48c28e3bd76e9ef7c3b418574249875552f84c44",
-      "size": 20833192,
-      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
+      "versionName": "0.22.1-playtest1",
+      "versionCode": 24,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.22.1-playtest1/ethical-pyramid-0.22.1-playtest1.apk",
+      "sha256": "90aa05542adc5f4f3dd427eb2aa9a8bd11617cced3678ad364639f852d2a34dd",
+      "size": 20826200,
+      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
