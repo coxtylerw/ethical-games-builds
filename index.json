@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T03:00:50Z",
+  "updated": "2026-11-03T03:01:59Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.12.1-playtest1",
-      "versionCode": 16,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.12.1-playtest1/ethical-sudoku-0.12.1-playtest1.apk",
-      "sha256": "5686853c4a8b1ab1d50881a9724fd012c63b61160a93171d7c1fbcd0995b2fea",
-      "size": 14982923,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.13.0-playtest1",
+      "versionCode": 17,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.13.0-playtest1/ethical-sudoku-0.13.0-playtest1.apk",
+      "sha256": "286cc3a43d65d2d4e61a919eba045ec2dd45d6a25b8b29f3ec5c1df63bd13ebf",
+      "size": 15032971,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": []
     },
     {
