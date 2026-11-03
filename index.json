@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T00:04:53Z",
+  "updated": "2026-11-03T00:06:02Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "0.4.0-playtest1",
-      "versionCode": 10,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.4.0-playtest1/ethical-nonogram-0.4.0-playtest1.apk",
-      "sha256": "1a9e6a66792d3b11501237a90a2660a58e7605f65a0335f6378fe1b8bab07261",
-      "size": 14964932,
-      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
+      "versionName": "0.4.1-playtest1",
+      "versionCode": 11,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.4.1-playtest1/ethical-nonogram-0.4.1-playtest1.apk",
+      "sha256": "6d59582cfbbce1dc97696c7d915a56ce5b72557e8882117ccf7bacb80e6af3be",
+      "size": 14957940,
+      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
       "oldIds": []
     },
     {
