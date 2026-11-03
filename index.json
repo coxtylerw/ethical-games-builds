@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T00:00:58Z",
+  "updated": "2026-11-03T00:02:32Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.23.0-playtest1",
-      "versionCode": 24,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.23.0-playtest1/ethical-mahjong-0.23.0-playtest1.apk",
-      "sha256": "d4f464f71dcacb0bb600e2cadf6c2c09ea5055145b51c8b4c0f6791ce653aa0c",
-      "size": 17550714,
-      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
+      "versionName": "0.23.1-playtest1",
+      "versionCode": 25,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.23.1-playtest1/ethical-mahjong-0.23.1-playtest1.apk",
+      "sha256": "5088fa566de285d2a81e8ecb2cb03f902f3bedfe2d8ff936f21a663c08164d64",
+      "size": 17543722,
+      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
