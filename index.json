@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-02T23:59:51Z",
+  "updated": "2026-11-03T00:00:58Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.22.0-playtest1",
-      "versionCode": 23,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.22.0-playtest1/ethical-golf-0.22.0-playtest1.apk",
-      "sha256": "adf22c708ff21444a95e0a3813b40a43553c0e9472f3413d40018fbcc76dc4d4",
-      "size": 20796636,
-      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
+      "versionName": "0.22.1-playtest1",
+      "versionCode": 24,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.22.1-playtest1/ethical-golf-0.22.1-playtest1.apk",
+      "sha256": "a58dfcbd82f95534632470ff8ab4e9f0df2812b33c3c121ec27ff63ace6c5c0e",
+      "size": 20789648,
+      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
