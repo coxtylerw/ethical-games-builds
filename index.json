@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T03:01:59Z",
+  "updated": "2026-11-03T03:03:22Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -128,12 +128,12 @@
       "id": "app.ethicalgames.killersudoku",
       "name": "Ethical Killer Sudoku",
       "game": "Killer Sudoku",
-      "versionName": "0.4.1-playtest1",
-      "versionCode": 6,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.4.1-playtest1/ethical-killersudoku-0.4.1-playtest1.apk",
-      "sha256": "d16e5784e96645e81649714c277bc9e2cf0a06f947743577e9b295bb229fe695",
-      "size": 15277547,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.5.0-playtest1",
+      "versionCode": 7,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.5.0-playtest1/ethical-killersudoku-0.5.0-playtest1.apk",
+      "sha256": "0dc877df911ebaa184bab2b3101812fc7cdd62d4415ad6ed061cd5f1c6daefde",
+      "size": 15327591,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": []
     },
     {
