@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T02:59:10Z",
+  "updated": "2026-11-03T03:00:50Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.23.1-playtest1",
-      "versionCode": 25,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.23.1-playtest1/ethical-mahjong-0.23.1-playtest1.apk",
-      "sha256": "5088fa566de285d2a81e8ecb2cb03f902f3bedfe2d8ff936f21a663c08164d64",
-      "size": 17543722,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.24.0-playtest1",
+      "versionCode": 26,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.24.0-playtest1/ethical-mahjong-0.24.0-playtest1.apk",
+      "sha256": "ff92e59202715de2037c2235a0e1a73069c23e3fd1cfc2d30f77bf941f282cca",
+      "size": 17593786,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
