@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T02:53:22Z",
+  "updated": "2026-11-03T02:54:30Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.22.1-playtest1",
-      "versionCode": 25,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.22.1-playtest1/ethical-freecell-0.22.1-playtest1.apk",
-      "sha256": "c74623ca46fbcd5726512734ad43efd941453c6235aaa9c615bff9e3c5a63f4e",
-      "size": 20815396,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.23.0-playtest1",
+      "versionCode": 26,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.23.0-playtest1/ethical-freecell-0.23.0-playtest1.apk",
+      "sha256": "3e24dfcf903ac8f3d83f913a1c3cfdbbb9edea43ecf7aed5b8d5b73627b0ade9",
+      "size": 20865448,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
