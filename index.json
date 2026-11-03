@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T02:57:57Z",
+  "updated": "2026-11-03T02:59:10Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.22.1-playtest1",
-      "versionCode": 24,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.22.1-playtest1/ethical-golf-0.22.1-playtest1.apk",
-      "sha256": "a58dfcbd82f95534632470ff8ab4e9f0df2812b33c3c121ec27ff63ace6c5c0e",
-      "size": 20789648,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.23.0-playtest1",
+      "versionCode": 25,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.23.0-playtest1/ethical-golf-0.23.0-playtest1.apk",
+      "sha256": "da96288575ae3d9ac01675af37b6bc4864970f376fb0f23315de185457740bb9",
+      "size": 20839704,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
