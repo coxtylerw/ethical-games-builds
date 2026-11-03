@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T03:04:28Z",
+  "updated": "2026-11-03T03:05:36Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -152,12 +152,12 @@
       "id": "app.ethicalgames.minesweeper",
       "name": "Ethical Minesweeper",
       "game": "Minesweeper",
-      "versionName": "0.4.1-playtest1",
-      "versionCode": 6,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.4.1-playtest1/ethical-minesweeper-0.4.1-playtest1.apk",
-      "sha256": "fda2ecf174fd7e06350b1fe3115321bc89107c86e35049134c21807432f8d883",
-      "size": 15162040,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.5.0-playtest1",
+      "versionCode": 7,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.5.0-playtest1/ethical-minesweeper-0.5.0-playtest1.apk",
+      "sha256": "6379f46f33f66fcede1bdedf9d8ef1b94196e6782c2b547334e47218b39b7cca",
+      "size": 15212096,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": []
     }
   ]
