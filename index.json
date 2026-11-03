@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T02:55:40Z",
+  "updated": "2026-11-03T02:56:47Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "0.22.1-playtest1",
-      "versionCode": 24,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.22.1-playtest1/ethical-tripeaks-0.22.1-playtest1.apk",
-      "sha256": "10a27c531b32fe037e0261070f3c42955ed44e5a3debb320e7310fb5a847e79c",
-      "size": 20789148,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.23.0-playtest1",
+      "versionCode": 25,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v0.23.0-playtest1/ethical-tripeaks-0.23.0-playtest1.apk",
+      "sha256": "32818063e820433494809797216fbd7c5fb267229e91e1c987dcd31ebe51a2a4",
+      "size": 20839204,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
