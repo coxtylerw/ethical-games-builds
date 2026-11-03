@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T00:07:05Z",
+  "updated": "2026-11-03T02:53:22Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.22.1-playtest1",
-      "versionCode": 26,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.22.1-playtest1/ethical-solitaire-0.22.1-playtest1.apk",
-      "sha256": "403a5c7efb1f12bc28523f2fba170f404b28fcde6039019890d05ad523a13751",
-      "size": 20811769,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.23.0-playtest1",
+      "versionCode": 27,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.23.0-playtest1/ethical-solitaire-0.23.0-playtest1.apk",
+      "sha256": "5c84cd7d898be3c41613b0b8df367deaaa4b2e75fbd1ec89546dea4df22c301c",
+      "size": 20861829,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
