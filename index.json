@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T00:03:35Z",
+  "updated": "2026-11-03T00:04:53Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -128,12 +128,12 @@
       "id": "app.ethicalgames.killersudoku",
       "name": "Ethical Killer Sudoku",
       "game": "Killer Sudoku",
-      "versionName": "0.4.0-playtest1",
-      "versionCode": 5,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.4.0-playtest1/ethical-killersudoku-0.4.0-playtest1.apk",
-      "sha256": "3f2d5f5fd0fd8e8189186358bcf9872280016f0d7f3db19f092d4066664bfe0e",
-      "size": 15284539,
-      "notes": "20 win animations, 16 of them new, each with its own tune, dealt like a shuffled deck so none repeats before you've seen them all.",
+      "versionName": "0.4.1-playtest1",
+      "versionCode": 6,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.4.1-playtest1/ethical-killersudoku-0.4.1-playtest1.apk",
+      "sha256": "d16e5784e96645e81649714c277bc9e2cf0a06f947743577e9b295bb229fe695",
+      "size": 15277547,
+      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
       "oldIds": []
     },
     {
