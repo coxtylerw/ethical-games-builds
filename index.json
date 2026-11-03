@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T02:54:30Z",
+  "updated": "2026-11-03T02:55:40Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.22.1-playtest1",
-      "versionCode": 25,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.22.1-playtest1/ethical-spider-0.22.1-playtest1.apk",
-      "sha256": "91f7cbeaac719f3a6dd97699b357953d70d1f191f4d583ea2a8cd87cd7b872c5",
-      "size": 20819064,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.23.0-playtest1",
+      "versionCode": 26,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.23.0-playtest1/ethical-spider-0.23.0-playtest1.apk",
+      "sha256": "58a1808d32115474e67653b4a410eb1a01ec73f75753b56c616b69787796d6c9",
+      "size": 20869120,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
