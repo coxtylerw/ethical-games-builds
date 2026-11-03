@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T02:56:47Z",
+  "updated": "2026-11-03T02:57:57Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.22.1-playtest1",
-      "versionCode": 24,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.22.1-playtest1/ethical-pyramid-0.22.1-playtest1.apk",
-      "sha256": "90aa05542adc5f4f3dd427eb2aa9a8bd11617cced3678ad364639f852d2a34dd",
-      "size": 20826200,
-      "notes": "Easier-to-read menus: a fainter knit behind the Winter Cabin menus, and full-strength menu text in every theme with its own menu colours.",
+      "versionName": "0.23.0-playtest1",
+      "versionCode": 25,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.23.0-playtest1/ethical-pyramid-0.23.0-playtest1.apk",
+      "sha256": "338ea51a097406eb65c1c5969879191aaead4cb6c3e92a37dacd0c65c43fd5d3",
+      "size": 20876256,
+      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
