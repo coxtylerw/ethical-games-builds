@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T21:06:17Z",
+  "updated": "2026-11-14T08:37:10Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.23.0-playtest1",
-      "versionCode": 27,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.23.0-playtest1/ethical-solitaire-0.23.0-playtest1.apk",
-      "sha256": "5c84cd7d898be3c41613b0b8df367deaaa4b2e75fbd1ec89546dea4df22c301c",
-      "size": 20861829,
-      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
+      "versionName": "0.24.0-playtest1",
+      "versionCode": 28,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.24.0-playtest1/ethical-solitaire-0.24.0-playtest1.apk",
+      "sha256": "81d6c7cebe62c593d430a621fadb992dfbcc17ab89acca6e44bd65de6e8ad976",
+      "size": 21007760,
+      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
