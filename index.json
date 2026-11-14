@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T13:15:55Z",
+  "updated": "2026-11-14T13:17:07Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.24.0-playtest1",
-      "versionCode": 27,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.24.0-playtest1/ethical-freecell-0.24.0-playtest1.apk",
-      "sha256": "1fbdb1f9a00343bc816de6749b22473f6bec8cc582a71d8cc5680bb0ded768e3",
-      "size": 21053567,
-      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
+      "versionName": "0.24.1-playtest1",
+      "versionCode": 28,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.24.1-playtest1/ethical-freecell-0.24.1-playtest1.apk",
+      "sha256": "831c01e08dd53c35eceb5f17d8cdcef7de53939ffebf6a8eba50f8045cfa443f",
+      "size": 21069955,
+      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
