@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T13:18:18Z",
+  "updated": "2026-11-14T13:19:19Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "1.1.0-playtest1",
-      "versionCode": 27,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v1.1.0-playtest1/ethical-tripeaks-1.1.0-playtest1.apk",
-      "sha256": "148f565ee6439daf86a0a22d1a1216a03967c8c2dfea5138d4fbf73fe27b6fed",
+      "versionName": "1.1.1-playtest1",
+      "versionCode": 28,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v1.1.1-playtest1/ethical-tripeaks-1.1.1-playtest1.apk",
+      "sha256": "5e2a3fe60adce3ac51c69e0f1d04f2ef05b88fdd4f50f1ac1dfabfa97e0e6750",
       "size": 21032211,
-      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
+      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
