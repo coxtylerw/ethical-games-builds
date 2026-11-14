@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T13:27:03Z",
+  "updated": "2026-11-14T13:28:12Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -152,12 +152,12 @@
       "id": "app.ethicalgames.minesweeper",
       "name": "Ethical Minesweeper",
       "game": "Minesweeper",
-      "versionName": "0.6.0-playtest1",
-      "versionCode": 8,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.6.0-playtest1/ethical-minesweeper-0.6.0-playtest1.apk",
-      "sha256": "3628152aabdbc5302563cc6452b1875a08626e79d4a23d9fef64e19c11cde762",
-      "size": 15426215,
-      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
+      "versionName": "0.6.1-playtest1",
+      "versionCode": 9,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.6.1-playtest1/ethical-minesweeper-0.6.1-playtest1.apk",
+      "sha256": "38c34c38ede79f49110813701d5f3b923ac66f13243fa92fec404aafea373fff",
+      "size": 15426219,
+      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
       "oldIds": []
     }
   ]
