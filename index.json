@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T08:47:58Z",
+  "updated": "2026-11-14T08:49:01Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -152,12 +152,12 @@
       "id": "app.ethicalgames.minesweeper",
       "name": "Ethical Minesweeper",
       "game": "Minesweeper",
-      "versionName": "0.5.0-playtest1",
-      "versionCode": 7,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.5.0-playtest1/ethical-minesweeper-0.5.0-playtest1.apk",
-      "sha256": "6379f46f33f66fcede1bdedf9d8ef1b94196e6782c2b547334e47218b39b7cca",
-      "size": 15212096,
-      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
+      "versionName": "0.6.0-playtest1",
+      "versionCode": 8,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.6.0-playtest1/ethical-minesweeper-0.6.0-playtest1.apk",
+      "sha256": "3628152aabdbc5302563cc6452b1875a08626e79d4a23d9fef64e19c11cde762",
+      "size": 15426215,
+      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
       "oldIds": []
     }
   ]
