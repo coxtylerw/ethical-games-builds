@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T08:40:40Z",
+  "updated": "2026-11-14T08:41:44Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.23.0-playtest1",
-      "versionCode": 25,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.23.0-playtest1/ethical-pyramid-0.23.0-playtest1.apk",
-      "sha256": "338ea51a097406eb65c1c5969879191aaead4cb6c3e92a37dacd0c65c43fd5d3",
-      "size": 20876256,
-      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
+      "versionName": "0.24.0-playtest1",
+      "versionCode": 26,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.24.0-playtest1/ethical-pyramid-0.24.0-playtest1.apk",
+      "sha256": "f65f5c8d06995baf6931e614b04fa4656dc908a0a4176732db01690dc99b4525",
+      "size": 21033515,
+      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
