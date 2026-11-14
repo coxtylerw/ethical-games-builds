@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T08:38:16Z",
+  "updated": "2026-11-14T08:39:23Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.23.0-playtest1",
-      "versionCode": 26,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.23.0-playtest1/ethical-spider-0.23.0-playtest1.apk",
-      "sha256": "58a1808d32115474e67653b4a410eb1a01ec73f75753b56c616b69787796d6c9",
-      "size": 20869120,
-      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
+      "versionName": "0.24.0-playtest1",
+      "versionCode": 27,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.24.0-playtest1/ethical-spider-0.24.0-playtest1.apk",
+      "sha256": "3489671372883222f5c3c1b0349f677885c8f334c6e98f94bac9509961aea8ba",
+      "size": 21040831,
+      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
