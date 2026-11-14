@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T08:42:53Z",
+  "updated": "2026-11-14T08:44:29Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.24.0-playtest1",
-      "versionCode": 26,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.24.0-playtest1/ethical-mahjong-0.24.0-playtest1.apk",
-      "sha256": "ff92e59202715de2037c2235a0e1a73069c23e3fd1cfc2d30f77bf941f282cca",
-      "size": 17593786,
-      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
+      "versionName": "0.25.0-playtest1",
+      "versionCode": 27,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.25.0-playtest1/ethical-mahjong-0.25.0-playtest1.apk",
+      "sha256": "f7ee6f0cc5ed198ea212fa8fee77f8f44a788ca2879a747306f3927cae5ad4c1",
+      "size": 17757057,
+      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
