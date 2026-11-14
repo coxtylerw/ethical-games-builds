@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T13:25:55Z",
+  "updated": "2026-11-14T13:27:03Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "0.7.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.7.0-playtest1/ethical-nonogram-0.7.0-playtest1.apk",
-      "sha256": "8fdef695af93108d0e4dd9616432cffba4183011efda364647e42fc51bf6e4ad",
+      "versionName": "0.7.1-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.7.1-playtest1/ethical-nonogram-0.7.1-playtest1.apk",
+      "sha256": "0ded905e970e9c930d6509ae34339b7c38abe9a957d4fe2a819621cdc423794f",
       "size": 15266442,
-      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
+      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
       "oldIds": []
     },
     {
