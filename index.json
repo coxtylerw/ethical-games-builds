@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T13:20:30Z",
+  "updated": "2026-11-14T13:21:43Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.24.0-playtest1",
-      "versionCode": 26,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.24.0-playtest1/ethical-golf-0.24.0-playtest1.apk",
-      "sha256": "831dfcc979dd664fe5499c0260980517e648facd5d8ac656990ec7c3ef0cbe49",
+      "versionName": "0.24.1-playtest1",
+      "versionCode": 27,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.24.1-playtest1/ethical-golf-0.24.1-playtest1.apk",
+      "sha256": "4c176fcd7db7e7050c448e532fca4dde9ad3676b5aa62fb40b626cd503fd3184",
       "size": 21014219,
-      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
+      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
