@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T08:37:10Z",
+  "updated": "2026-11-14T08:38:16Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.23.0-playtest1",
-      "versionCode": 26,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.23.0-playtest1/ethical-freecell-0.23.0-playtest1.apk",
-      "sha256": "3e24dfcf903ac8f3d83f913a1c3cfdbbb9edea43ecf7aed5b8d5b73627b0ade9",
-      "size": 20865448,
-      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
+      "versionName": "0.24.0-playtest1",
+      "versionCode": 27,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.24.0-playtest1/ethical-freecell-0.24.0-playtest1.apk",
+      "sha256": "1fbdb1f9a00343bc816de6749b22473f6bec8cc582a71d8cc5680bb0ded768e3",
+      "size": 21053567,
+      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
