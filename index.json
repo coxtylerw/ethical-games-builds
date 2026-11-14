@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T08:44:29Z",
+  "updated": "2026-11-14T08:45:34Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.13.0-playtest1",
-      "versionCode": 17,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.13.0-playtest1/ethical-sudoku-0.13.0-playtest1.apk",
-      "sha256": "286cc3a43d65d2d4e61a919eba045ec2dd45d6a25b8b29f3ec5c1df63bd13ebf",
-      "size": 15032971,
-      "notes": "Menus that match Classic, High contrast and Cyber Neon, with menu pictures",
+      "versionName": "0.14.0-playtest1",
+      "versionCode": 18,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.14.0-playtest1/ethical-sudoku-0.14.0-playtest1.apk",
+      "sha256": "38896e7831b02708a7380c06261b4ff5df83f117cf51aac6f48fbc542f315ee7",
+      "size": 15220494,
+      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
       "oldIds": []
     },
     {
