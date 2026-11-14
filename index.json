@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T13:24:32Z",
+  "updated": "2026-11-14T13:25:55Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -128,12 +128,12 @@
       "id": "app.ethicalgames.killersudoku",
       "name": "Ethical Killer Sudoku",
       "game": "Killer Sudoku",
-      "versionName": "0.6.0-playtest1",
-      "versionCode": 8,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.6.0-playtest1/ethical-killersudoku-0.6.0-playtest1.apk",
-      "sha256": "cf3c37d75444eb8a30e426a28adeea6224f371fc50d82142701b999d63bc7e2a",
+      "versionName": "0.6.1-playtest1",
+      "versionCode": 9,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.6.1-playtest1/ethical-killersudoku-0.6.1-playtest1.apk",
+      "sha256": "5389f3e5984112af3c347a031ec6fb9db742906a0fd5b8a2770e22816a38ae71",
       "size": 15533134,
-      "notes": "The app icon matches your theme: every theme has its own icon, and Menu > Settings > App icon matches theme turns it off. New installs start in Wildflower.",
+      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
       "oldIds": []
     },
     {
