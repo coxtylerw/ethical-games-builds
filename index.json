@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:27:19Z",
+  "updated": "2026-11-20T09:29:02Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -102,12 +102,12 @@
       "id": "app.ethicalgames.mahjong",
       "name": "Ethical Mahjong",
       "game": "Mahjong Solitaire",
-      "versionName": "0.25.1-playtest1",
-      "versionCode": 28,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v0.25.1-playtest1/ethical-mahjong-0.25.1-playtest1.apk",
-      "sha256": "26e2584375ea2dc8cb0d02b03bd030f23f8d0a09356a3650773ed1bb0fe9ce4d",
-      "size": 17757065,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 31,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/mahjong-v1.1.0-playtest1/ethical-mahjong-1.1.0-playtest1.apk",
+      "sha256": "a4a412816faa08b8eb0cc5d113532107edaa672f5243c0683f2ff1a6988519ad",
+      "size": 19403876,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": [
         "io.github.coxtylerw.ethical.mahjong"
       ]
