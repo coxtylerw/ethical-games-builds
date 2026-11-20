@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:26:04Z",
+  "updated": "2026-11-20T09:27:19Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -88,12 +88,12 @@
       "id": "app.ethicalgames.golf",
       "name": "Ethical Golf",
       "game": "Golf Solitaire",
-      "versionName": "0.24.1-playtest1",
-      "versionCode": 27,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v0.24.1-playtest1/ethical-golf-0.24.1-playtest1.apk",
-      "sha256": "4c176fcd7db7e7050c448e532fca4dde9ad3676b5aa62fb40b626cd503fd3184",
-      "size": 21014219,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 30,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/golf-v1.1.0-playtest1/ethical-golf-1.1.0-playtest1.apk",
+      "sha256": "151f39302c83de5490bcd9e06bad570e610892b800c0f15f59fac1e7a4095027",
+      "size": 23038237,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": [
         "io.github.coxtylerw.ethical.golf"
       ]
