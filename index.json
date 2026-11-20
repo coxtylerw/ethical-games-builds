@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:29:02Z",
+  "updated": "2026-11-20T09:38:08Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "0.14.1-playtest1",
-      "versionCode": 19,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v0.14.1-playtest1/ethical-sudoku-0.14.1-playtest1.apk",
-      "sha256": "56a3210b430fe3c4b5b6efa0429f3923d3db051535b898b5cae38dab984c983e",
-      "size": 15220494,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 21,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v1.1.0-playtest1/ethical-sudoku-1.1.0-playtest1.apk",
+      "sha256": "2f96072bd42e854e42930fedbe6f79460d6a0f21c4b28d52b5fefc86da1d99bb",
+      "size": 16528953,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": []
     },
     {
