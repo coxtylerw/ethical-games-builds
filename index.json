@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:40:21Z",
+  "updated": "2026-11-20T09:41:21Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -152,12 +152,12 @@
       "id": "app.ethicalgames.minesweeper",
       "name": "Ethical Minesweeper",
       "game": "Minesweeper",
-      "versionName": "0.6.1-playtest1",
-      "versionCode": 9,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v0.6.1-playtest1/ethical-minesweeper-0.6.1-playtest1.apk",
-      "sha256": "38c34c38ede79f49110813701d5f3b923ac66f13243fa92fec404aafea373fff",
-      "size": 15426219,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 11,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v1.1.0-playtest1/ethical-minesweeper-1.1.0-playtest1.apk",
+      "sha256": "66ba736d4c4768d9b4948187b19815301dfc761500eccbaf783fbdd5412dcea1",
+      "size": 16771284,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": []
     }
   ]
