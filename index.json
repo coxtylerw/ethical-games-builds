@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:21:07Z",
+  "updated": "2026-11-20T09:22:22Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "0.24.1-playtest1",
-      "versionCode": 28,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v0.24.1-playtest1/ethical-freecell-0.24.1-playtest1.apk",
-      "sha256": "831c01e08dd53c35eceb5f17d8cdcef7de53939ffebf6a8eba50f8045cfa443f",
-      "size": 21069955,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 31,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v1.1.0-playtest1/ethical-freecell-1.1.0-playtest1.apk",
+      "sha256": "1a34784e0286972237cc86e7f83937f4549a8ff9904a83a43aaf5a5babe2895e",
+      "size": 23095393,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
