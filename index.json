@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:24:49Z",
+  "updated": "2026-11-20T09:26:04Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "0.24.1-playtest1",
-      "versionCode": 27,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v0.24.1-playtest1/ethical-pyramid-0.24.1-playtest1.apk",
-      "sha256": "adae3a4357022bbb37e99b2db4aae96bba00e2e60e2f3e0e2ab9b0afb14b0c9d",
-      "size": 21033515,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 30,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v1.1.0-playtest1/ethical-pyramid-1.1.0-playtest1.apk",
+      "sha256": "b0a0a57b0b3996a5658a1557c3d371cb6c7c67a27ccd4ba1ca81429a3b767919",
+      "size": 23057257,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
