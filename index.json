@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:22:22Z",
+  "updated": "2026-11-20T09:23:38Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "0.24.1-playtest1",
-      "versionCode": 28,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v0.24.1-playtest1/ethical-spider-0.24.1-playtest1.apk",
-      "sha256": "7685e3f2db7abc8c0682555f54cea9d175c4db9fe198fe0d1df5a1b26308c79a",
-      "size": 21040835,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 31,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v1.1.0-playtest1/ethical-spider-1.1.0-playtest1.apk",
+      "sha256": "f835e526cee6e576c734e2462f8b646575a540cef8db71df3d04a70190538d55",
+      "size": 23067541,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
