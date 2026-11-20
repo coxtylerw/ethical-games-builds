@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T13:28:12Z",
+  "updated": "2026-11-20T09:21:07Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -18,12 +18,12 @@
       "id": "app.ethicalgames.solitaire",
       "name": "Ethical Solitaire",
       "game": "Klondike",
-      "versionName": "0.24.1-playtest1",
-      "versionCode": 29,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v0.24.1-playtest1/ethical-solitaire-0.24.1-playtest1.apk",
-      "sha256": "3993219d7d299c71404285e3dc144f33498a47b1ede04be2e92ec62bbd3ce321",
-      "size": 21007760,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 32,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/solitaire-v1.1.0-playtest1/ethical-solitaire-1.1.0-playtest1.apk",
+      "sha256": "72bc702d74478f87466e49b868a7557502b2e562031b0a80352b67a4b646e479",
+      "size": 23046750,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": [
         "io.github.coxtylerw.ethical.solitaire"
       ]
