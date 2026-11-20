@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:38:08Z",
+  "updated": "2026-11-20T09:39:19Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -128,12 +128,12 @@
       "id": "app.ethicalgames.killersudoku",
       "name": "Ethical Killer Sudoku",
       "game": "Killer Sudoku",
-      "versionName": "0.6.1-playtest1",
-      "versionCode": 9,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v0.6.1-playtest1/ethical-killersudoku-0.6.1-playtest1.apk",
-      "sha256": "5389f3e5984112af3c347a031ec6fb9db742906a0fd5b8a2770e22816a38ae71",
-      "size": 15533134,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 11,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v1.1.0-playtest1/ethical-killersudoku-1.1.0-playtest1.apk",
+      "sha256": "a3aed481ae5f7879396bbf91a98503695ce1851e4977dba6d515fcfdc7dad630",
+      "size": 16841633,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": []
     },
     {
