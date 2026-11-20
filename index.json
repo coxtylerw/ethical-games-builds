@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:39:19Z",
+  "updated": "2026-11-20T09:40:21Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "0.7.1-playtest1",
-      "versionCode": 15,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v0.7.1-playtest1/ethical-nonogram-0.7.1-playtest1.apk",
-      "sha256": "0ded905e970e9c930d6509ae34339b7c38abe9a957d4fe2a819621cdc423794f",
-      "size": 15266442,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.1.0-playtest1",
+      "versionCode": 17,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v1.1.0-playtest1/ethical-nonogram-1.1.0-playtest1.apk",
+      "sha256": "14c029ce97375d4e75ee2700ca533c8bb9e33b26add7b8db0c355e7a74d93222",
+      "size": 16574977,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": []
     },
     {
