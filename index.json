@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T09:23:38Z",
+  "updated": "2026-11-20T09:24:49Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -60,12 +60,12 @@
       "id": "app.ethicalgames.tripeaks",
       "name": "Ethical TriPeaks",
       "game": "TriPeaks",
-      "versionName": "1.1.1-playtest1",
-      "versionCode": 28,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v1.1.1-playtest1/ethical-tripeaks-1.1.1-playtest1.apk",
-      "sha256": "5e2a3fe60adce3ac51c69e0f1d04f2ef05b88fdd4f50f1ac1dfabfa97e0e6750",
-      "size": 21032211,
-      "notes": "Fixed: picking a theme no longer closes the game; the icon changes after you leave it.",
+      "versionName": "1.3.0-playtest1",
+      "versionCode": 32,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/tripeaks-v1.3.0-playtest1/ethical-tripeaks-1.3.0-playtest1.apk",
+      "sha256": "cf4398552b10d25aa43f972a027e0cbb025d7542b1e310b93570a8c331d63d6b",
+      "size": 23076273,
+      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
       "oldIds": [
         "io.github.coxtylerw.ethical.tripeaks"
       ]
