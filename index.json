@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T20:44:18Z",
+  "updated": "2026-11-25T20:45:50Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -152,12 +152,12 @@
       "id": "app.ethicalgames.minesweeper",
       "name": "Ethical Minesweeper",
       "game": "Minesweeper",
-      "versionName": "1.1.0-playtest1",
-      "versionCode": 11,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v1.1.0-playtest1/ethical-minesweeper-1.1.0-playtest1.apk",
-      "sha256": "66ba736d4c4768d9b4948187b19815301dfc761500eccbaf783fbdd5412dcea1",
-      "size": 16771284,
-      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
+      "versionName": "1.2.0-playtest1",
+      "versionCode": 14,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v1.2.0-playtest1/ethical-minesweeper-1.2.0-playtest1.apk",
+      "sha256": "a7d88958d780ead7e2dcd8b676fdb951a4221a81681a21f459a8e5ced09ca28f",
+      "size": 19790491,
+      "notes": "New: 40 win animations, twice as long, each with its own tune.",
       "oldIds": []
     }
   ]
