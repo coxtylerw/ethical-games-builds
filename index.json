@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T23:57:07Z",
+  "updated": "2026-11-25T23:58:00Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -128,12 +128,12 @@
       "id": "app.ethicalgames.killersudoku",
       "name": "Ethical Killer Sudoku",
       "game": "Killer Sudoku",
-      "versionName": "1.2.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v1.2.0-playtest1/ethical-killersudoku-1.2.0-playtest1.apk",
-      "sha256": "caa4dc33e47ff13b76fad0437faf714e3a171b8b1f75594abc5e87362d6ed8e3",
-      "size": 19844580,
-      "notes": "New: 40 win animations, twice as long, each with its own tune.",
+      "versionName": "1.2.1-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v1.2.1-playtest1/ethical-killersudoku-1.2.1-playtest1.apk",
+      "sha256": "76f16e2de350a74d2b5dac47620db2f4a4437bb1991e73e91a7b8b81374bdb6c",
+      "size": 19900030,
+      "notes": "Groundwork for more platforms: the engine is now common Kotlin. Nothing should look or play differently.",
       "oldIds": []
     },
     {
