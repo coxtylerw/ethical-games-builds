@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T20:36:08Z",
+  "updated": "2026-11-25T20:37:23Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "1.1.0-playtest1",
-      "versionCode": 30,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v1.1.0-playtest1/ethical-pyramid-1.1.0-playtest1.apk",
-      "sha256": "b0a0a57b0b3996a5658a1557c3d371cb6c7c67a27ccd4ba1ca81429a3b767919",
-      "size": 23057257,
-      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
+      "versionName": "1.2.0-playtest1",
+      "versionCode": 33,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v1.2.0-playtest1/ethical-pyramid-1.2.0-playtest1.apk",
+      "sha256": "f75ab9e6314a21ecfbde604e18837715dfdf4cec7374e370b351663943e58952",
+      "size": 26241443,
+      "notes": "New: 40 win animations, twice as long, each with its own tune.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
