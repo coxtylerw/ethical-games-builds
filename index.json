@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T23:53:31Z",
+  "updated": "2026-11-25T23:54:18Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -74,12 +74,12 @@
       "id": "app.ethicalgames.pyramid",
       "name": "Ethical Pyramid",
       "game": "Pyramid",
-      "versionName": "1.2.0-playtest1",
-      "versionCode": 33,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v1.2.0-playtest1/ethical-pyramid-1.2.0-playtest1.apk",
-      "sha256": "f75ab9e6314a21ecfbde604e18837715dfdf4cec7374e370b351663943e58952",
+      "versionName": "1.2.1-playtest1",
+      "versionCode": 34,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/pyramid-v1.2.1-playtest1/ethical-pyramid-1.2.1-playtest1.apk",
+      "sha256": "18adad5c415e591d893785876126b514954e0eaa57683e33583630415faa247c",
       "size": 26241443,
-      "notes": "New: 40 win animations, twice as long, each with its own tune.",
+      "notes": "Groundwork for more platforms: the engine is now common Kotlin. Nothing should look or play differently.",
       "oldIds": [
         "io.github.coxtylerw.ethical.pyramid"
       ]
