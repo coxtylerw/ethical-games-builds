@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T23:51:40Z",
+  "updated": "2026-11-25T23:52:42Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -46,12 +46,12 @@
       "id": "app.ethicalgames.spider",
       "name": "Ethical Spider",
       "game": "Spider Solitaire",
-      "versionName": "1.2.0-playtest1",
-      "versionCode": 34,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v1.2.0-playtest1/ethical-spider-1.2.0-playtest1.apk",
-      "sha256": "8576483e5bad7374c431aa3e9c14b9d5a1b1813e981c27b5c4b690d8b476f4c6",
+      "versionName": "1.2.1-playtest1",
+      "versionCode": 35,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/spider-v1.2.1-playtest1/ethical-spider-1.2.1-playtest1.apk",
+      "sha256": "e99df872eef4b97af2478e8ca22ae86fb7566d93a84c24df46b0ca146085cd4c",
       "size": 26251683,
-      "notes": "New: 40 win animations, twice as long, each with its own tune.",
+      "notes": "Groundwork for more platforms: the engine is now common Kotlin. Nothing should look or play differently.",
       "oldIds": [
         "io.github.coxtylerw.ethical.spider"
       ]
