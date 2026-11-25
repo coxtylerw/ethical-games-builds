@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T23:58:00Z",
+  "updated": "2026-11-25T23:58:40Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "1.2.0-playtest1",
-      "versionCode": 20,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v1.2.0-playtest1/ethical-nonogram-1.2.0-playtest1.apk",
-      "sha256": "d2fa603567ce20dbbf9f6b2c3da9006e76c15b1792ecaed4543c240a83bf58af",
-      "size": 19594308,
-      "notes": "New: 40 win animations, twice as long, each with its own tune.",
+      "versionName": "1.2.1-playtest1",
+      "versionCode": 21,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v1.2.1-playtest1/ethical-nonogram-1.2.1-playtest1.apk",
+      "sha256": "2a91829f3b49eb2c0918408d7c708bab3e86983b590ff3774ed81a19bedd34ff",
+      "size": 19586346,
+      "notes": "Groundwork for more platforms: the engine is now common Kotlin. Nothing should look or play differently.",
       "oldIds": []
     },
     {
