@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T23:58:40Z",
+  "updated": "2026-11-25T23:59:20Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -152,12 +152,12 @@
       "id": "app.ethicalgames.minesweeper",
       "name": "Ethical Minesweeper",
       "game": "Minesweeper",
-      "versionName": "1.2.0-playtest1",
-      "versionCode": 14,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v1.2.0-playtest1/ethical-minesweeper-1.2.0-playtest1.apk",
-      "sha256": "a7d88958d780ead7e2dcd8b676fdb951a4221a81681a21f459a8e5ced09ca28f",
-      "size": 19790491,
-      "notes": "New: 40 win animations, twice as long, each with its own tune.",
+      "versionName": "1.2.1-playtest1",
+      "versionCode": 15,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/minesweeper-v1.2.1-playtest1/ethical-minesweeper-1.2.1-playtest1.apk",
+      "sha256": "fae992c68f447b6d30bacdb5c0bb03d6d2044a4962447ff7a816b36be5b3ae75",
+      "size": 19824137,
+      "notes": "Groundwork for more platforms: the engine is now common Kotlin. Nothing should look or play differently.",
       "oldIds": []
     }
   ]
