@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T20:40:28Z",
+  "updated": "2026-11-25T20:41:41Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -116,12 +116,12 @@
       "id": "app.ethicalgames.sudoku",
       "name": "Ethical Sudoku",
       "game": "Sudoku",
-      "versionName": "1.1.0-playtest1",
-      "versionCode": 21,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v1.1.0-playtest1/ethical-sudoku-1.1.0-playtest1.apk",
-      "sha256": "2f96072bd42e854e42930fedbe6f79460d6a0f21c4b28d52b5fefc86da1d99bb",
-      "size": 16528953,
-      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
+      "versionName": "1.2.0-playtest1",
+      "versionCode": 24,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/sudoku-v1.2.0-playtest1/ethical-sudoku-1.2.0-playtest1.apk",
+      "sha256": "94d41625af3c52b6bafefe3eb3b14bf775adcfa90f7daf08d382c9c2d7a8ac48",
+      "size": 19548288,
+      "notes": "New: 40 win animations, twice as long, each with its own tune.",
       "oldIds": []
     },
     {
