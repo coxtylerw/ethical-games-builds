@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T20:32:21Z",
+  "updated": "2026-11-25T20:33:35Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -32,12 +32,12 @@
       "id": "app.ethicalgames.freecell",
       "name": "Ethical FreeCell",
       "game": "FreeCell",
-      "versionName": "1.1.0-playtest1",
-      "versionCode": 31,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v1.1.0-playtest1/ethical-freecell-1.1.0-playtest1.apk",
-      "sha256": "1a34784e0286972237cc86e7f83937f4549a8ff9904a83a43aaf5a5babe2895e",
-      "size": 23095393,
-      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
+      "versionName": "1.2.0-playtest1",
+      "versionCode": 34,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/freecell-v1.2.0-playtest1/ethical-freecell-1.2.0-playtest1.apk",
+      "sha256": "8e6e58e2dfa8b710b01ba7a62438ea521ed796e7aeec082dca55be41addf2d87",
+      "size": 26263091,
+      "notes": "New: 40 win animations, twice as long, each with its own tune.",
       "oldIds": [
         "io.github.coxtylerw.ethical.freecell"
       ]
