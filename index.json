@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T20:43:06Z",
+  "updated": "2026-11-25T20:44:18Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -140,12 +140,12 @@
       "id": "app.ethicalgames.nonogram",
       "name": "Ethical Nonogram",
       "game": "Nonogram",
-      "versionName": "1.1.0-playtest1",
-      "versionCode": 17,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v1.1.0-playtest1/ethical-nonogram-1.1.0-playtest1.apk",
-      "sha256": "14c029ce97375d4e75ee2700ca533c8bb9e33b26add7b8db0c355e7a74d93222",
-      "size": 16574977,
-      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
+      "versionName": "1.2.0-playtest1",
+      "versionCode": 20,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/nonogram-v1.2.0-playtest1/ethical-nonogram-1.2.0-playtest1.apk",
+      "sha256": "d2fa603567ce20dbbf9f6b2c3da9006e76c15b1792ecaed4543c240a83bf58af",
+      "size": 19594308,
+      "notes": "New: 40 win animations, twice as long, each with its own tune.",
       "oldIds": []
     },
     {
