@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T20:41:41Z",
+  "updated": "2026-11-25T20:43:06Z",
   "apps": [
     {
       "id": "app.ethicalgames.installer",
@@ -128,12 +128,12 @@
       "id": "app.ethicalgames.killersudoku",
       "name": "Ethical Killer Sudoku",
       "game": "Killer Sudoku",
-      "versionName": "1.1.0-playtest1",
-      "versionCode": 11,
-      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v1.1.0-playtest1/ethical-killersudoku-1.1.0-playtest1.apk",
-      "sha256": "a3aed481ae5f7879396bbf91a98503695ce1851e4977dba6d515fcfdc7dad630",
-      "size": 16841633,
-      "notes": "New: the Amber & Ember theme (late-autumn twilight and bonfires).",
+      "versionName": "1.2.0-playtest1",
+      "versionCode": 14,
+      "apk": "https://github.com/coxtylerw/ethical-games-builds/releases/download/killersudoku-v1.2.0-playtest1/ethical-killersudoku-1.2.0-playtest1.apk",
+      "sha256": "caa4dc33e47ff13b76fad0437faf714e3a171b8b1f75594abc5e87362d6ed8e3",
+      "size": 19844580,
+      "notes": "New: 40 win animations, twice as long, each with its own tune.",
       "oldIds": []
     },
     {
